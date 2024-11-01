@@ -33,7 +33,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 10.0,4.0,40.0,2010.4166666666667,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
 15.0,4.0,56.2,2965.4166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
 14.0,5.0,70.0,3273.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
-4.0,3.0,12.0,3298.75,2,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
 20.0,7.0,140.0,4464.166666666667,7,4.0,7.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường bình trị đông b
 9.0,4.0,36.0,4190.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 18.5,5.0,93.0,2464.1666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
@@ -215,7 +214,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 13.5,4.0,53.0,4559.583333333333,5,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
 10.0,3.0,30.0,4152.916666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
 14.5,4.0,58.0,3627.9166666666665,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
-12.0,4.0,48.0,3298.75,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 9.0,5.6,50.4,4050.8333333333335,3,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường tân tạo
 11.0,4.0,44.0,5009.583333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
 14.0,4.2,55.8,3584.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
@@ -305,7 +303,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 10.0,5.0,50.0,2666.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
 19.7,4.1,79.65,4551.25,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
 24.0,4.0,98.0,5017.083333333333,6,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
-8.0,4.0,32.0,2213.333333333333,2,3.0,2.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,hoàn thiện cơ bản,phường tân tạo a
 12.0,4.0,48.0,4340.416666666667,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
 22.8,4.0,91.4,3647.0833333333335,3,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
 16.0,4.0,64.0,3222.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
@@ -502,7 +499,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 13.0,5.5,68.0,3976.6666666666665,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
 10.0,4.0,40.0,4093.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
 20.0,5.0,100.0,2229.1666666666665,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
-14.0,5.0,60.0,3298.75,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
 20.0,4.5,90.0,5231.666666666667,5,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
 13.0,4.0,52.0,3085.0,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường tân tạo
 14.0,4.0,70.0,3154.583333333333,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông a
@@ -544,7 +540,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 17.0,4.0,70.0,4702.5,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
 18.0,5.0,83.0,2203.75,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
 14.0,4.0,56.0,3645.8333333333335,4,3.0,4.0,nhà phố liền kề,đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
-12.0,4.0,48.0,3298.75,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
 12.0,5.0,60.0,3597.083333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 12.0,4.0,48.0,3715.4166666666665,2,2.0,2.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà a
 22.0,5.0,115.0,3079.583333333333,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
@@ -637,7 +632,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 11.0,4.0,44.0,3787.9166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
 14.0,5.0,75.0,2055.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
 6.0,6.0,36.0,2315.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
-20.0,6.0,120.0,3298.75,6,4.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
 14.5,4.0,58.1,5163.333333333333,4,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
 17.0,4.0,68.0,3829.5833333333335,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
 10.5,4.0,42.0,2976.25,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
@@ -722,7 +716,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 20.0,5.0,100.0,3000.0,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
 11.7,4.0,48.0,3732.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
 14.0,4.0,56.0,6398.75,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông b
-12.0,4.0,48.0,3298.75,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
 14.0,4.2,58.0,3448.333333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
 7.0,4.0,28.0,2976.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình trị đông
 12.5,4.0,50.0,4041.6666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
@@ -827,7 +820,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 12.0,4.0,48.0,3081.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
 7.745966692414834,7.745966692414834,60.0,3750.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
 18.0,5.0,90.0,2013.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
-14.0,4.2,60.0,3298.75,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
 15.0,4.0,60.0,3125.0,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
 13.0,4.8,62.0,2822.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
 17.0,4.0,68.0,3976.6666666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
@@ -1087,7 +1079,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 13.5,4.0,53.0,4630.416666666667,5,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
 10.0,6.0,60.0,2986.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
 14.0,5.0,70.0,1809.5833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
-4.0,4.0,16.0,2213.333333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",sổ chung / công chứng vi bằng,,phường tân tạo
 16.0,4.0,64.0,2864.583333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
 12.5,5.5,70.0,3862.9166666666665,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
 15.0,4.0,60.0,3750.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
@@ -1097,7 +1088,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 12.5,4.0,50.0,4041.6666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
 12.0,4.0,48.0,3645.8333333333335,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
 11.0,4.0,44.0,4072.0833333333335,4,3.0,3.0,"nhà ngõ, hẻm",đang chờ sổ,nội thất cao cấp,phường bình trị đông
-12.0,4.0,48.0,3298.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 21.5,4.0,85.5,1705.8333333333333,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
 9.0,3.6,33.0,3724.5833333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
 14.0,4.0,56.0,5133.75,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
@@ -1230,7 +1220,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 25.0,10.0,251.0,2905.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
 30.0,4.4,130.0,2788.333333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
 9.486832980505138,9.486832980505138,90.0,7037.083333333333,3,2.0,4.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường an lạc a
-15.0,4.0,60.0,3298.75,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
 13.0,4.8,62.0,2957.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
 9.0,4.0,36.0,4143.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
 10.0,4.0,40.0,4062.5,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
@@ -1247,7 +1236,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 13.5,3.15,41.0,3048.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo
 10.0,4.0,40.0,3541.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình trị đông
 12.0,4.0,50.0,4166.666666666667,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
-16.0,5.0,80.0,500.0,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
 14.5,5.1,74.0,1830.0,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
 13.0,4.0,52.0,4767.5,5,5.0,3.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
 10.0,3.5,35.0,2357.083333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
@@ -1319,7 +1307,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 19.5,12.0,236.0,2207.083333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
 23.0,8.0,185.0,2815.4166666666665,3,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 19.0,4.0,75.0,2333.333333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
-15.0,4.0,60.0,3298.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
 14.0,5.0,70.0,2589.1666666666665,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
 10.0,4.0,40.0,4375.0,3,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
 12.0,4.0,48.0,3732.5,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
@@ -1612,7 +1599,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 8.0,3.7,30.0,4152.916666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 17.0,4.0,68.0,5208.333333333333,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông
 15.0,4.0,65.0,2435.833333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
-16.0,4.0,60.0,3298.75,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
 11.5,4.0,46.0,3170.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
 14.0,4.0,56.0,4836.25,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
 6.324555320336759,6.324555320336759,40.0,2447.9166666666665,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
@@ -1634,7 +1620,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 12.0,4.3,52.0,2684.1666666666665,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
 14.0,5.0,70.0,3273.75,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
 20.0,5.0,100.0,3250.0,6,2.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
-12.0,4.0,48.0,3298.75,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
 9.1,3.5,32.0,3190.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
 12.0,4.0,48.0,4166.666666666667,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
 10.0,3.55,35.5,4518.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
@@ -1853,7 +1838,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 18.0,4.0,68.0,5208.333333333333,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
 14.0,4.2,58.0,3592.083333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
 18.5,4.0,73.0,3652.9166666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
-20.0,4.0,80.0,2213.333333333333,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
 24.0,5.0,120.0,3992.9166666666665,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
 8.0,4.0,32.0,5143.333333333333,3,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
 20.0,6.0,120.0,3434.1666666666665,6,5.0,7.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
@@ -2567,7 +2551,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 12.0,4.0,48.0,3211.6666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
 21.0,4.0,85.0,2892.083333333333,2,1.0,1.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường an lạc
 10.0,4.0,40.0,3843.75,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
-18.0,4.0,72.0,3298.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
 6.324555320336759,6.324555320336759,40.0,2500.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
 9.0,3.0,26.0,3525.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
 6.0,4.0,24.0,2830.0,2,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
@@ -3010,7 +2993,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 7.5,4.2,30.0,3541.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
 20.0,5.0,100.0,2666.6666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
 16.0,4.0,64.0,2799.583333333333,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
-15.0,4.2,60.0,3298.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
 15.0,4.0,60.0,2604.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
 5.0,4.0,60.0,3472.083333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
 16.0,4.0,64.0,2799.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
@@ -3301,7 +3283,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 20.0,4.0,80.0,4791.666666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
 16.0,4.0,64.0,3222.5,3,3.0,4.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà b
 10.0,4.0,40.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
-20.0,4.0,80.0,463.3333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
 20.0,5.0,100.0,2395.833333333333,3,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường tân tạo a
 9.0,4.0,36.0,3472.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
 22.0,5.0,115.0,1811.25,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
@@ -3549,7 +3530,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 10.0,6.0,60.0,2986.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
 12.0,4.0,48.0,3385.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
 17.0,8.0,136.0,3615.0,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông a
-12.0,4.0,48.0,3298.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
 12.0,4.0,48.0,3472.083333333333,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
 12.0,4.0,46.0,3623.3333333333335,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 16.0,4.0,64.0,4036.6666666666665,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hòa
@@ -3789,7 +3769,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 18.0,3.5,62.0,2654.583333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
 8.4,4.0,33.0,4608.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
 14.0,4.0,55.8,3733.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
-15.0,8.0,120.0,3298.75,5,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
 10.0,4.0,38.3,3916.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
 10.0,4.0,40.0,4156.25,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
 10.0,4.0,40.0,2343.75,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
@@ -4431,7 +4410,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 9.0,4.0,36.0,2720.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
 8.0,4.0,32.0,3060.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
 20.0,4.0,80.0,3307.5,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
-16.0,5.0,80.0,501.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
 15.0,4.0,60.0,2604.1666666666665,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
 14.0,5.0,70.0,3154.583333333333,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
 16.0,3.0,48.0,3081.6666666666665,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
@@ -4497,7 +4475,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 8.0,3.5,30.0,2916.6666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
 6.0,5.0,30.0,2222.083333333333,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
 17.0,4.0,68.0,2885.833333333333,2,1.0,2.0,nhà phố liền kề,đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
-9.0,4.0,36.0,3298.75,2,2.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
 22.0,7.5,164.0,2007.0833333333333,5,2.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
 12.0,8.0,96.0,4557.5,6,4.0,4.0,nhà biệt thự,đã có sổ,,phường bình hưng hòa
 21.0,4.0,84.0,3869.1666666666665,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
@@ -4608,7 +4585,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 20.0,4.0,86.0,3488.333333333333,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
 14.0,4.0,57.8,4685.833333333333,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
 12.4,4.0,49.6,3780.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
-8.0,3.0,24.0,3298.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
 144.0,64.0,56.0,3682.9166666666665,4,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
 10.0,7.0,69.0,2596.6666666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
 9.5,4.0,38.0,4364.166666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
@@ -4786,7 +4762,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 17.5,4.0,70.4,2722.5,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
 4.761904761904762,4.2,20.0,3583.333333333333,2,2.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
 6.324555320336759,6.324555320336759,40.0,2187.5,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
-12.0,4.0,48.0,3298.75,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
 3.333333333333333,3.0,10.0,2708.333333333333,2,2.0,1.0,"nhà ngõ, hẻm",giấy tờ viết tay,,phường bình trị đông
 11.832159566199232,11.832159566199232,140.0,3868.75,6,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
 9.0,6.5,55.0,2991.6666666666665,5,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
@@ -4857,7 +4832,6 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 6.708203932499369,6.708203932499369,45.0,4861.25,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
 8.246211251235321,8.246211251235321,68.0,5177.5,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông
 13.0,4.0,52.0,3806.25,2,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
-9.0,4.0,36.0,3298.75,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
 7.745966692414834,7.745966692414834,60.0,3472.083333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
 10.294117647058822,4.08,42.0,4642.916666666667,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
 15.0,5.0,75.0,2333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
@@ -4949,3 +4923,1797 @@ chieuDai,chieuNgang,dienTich,Gia/m2,Phongngu,SoTang,PhongTam,Loai,GiayTo,TinhTra
 6.324555320336759,6.324555320336759,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
 8.0,8.0,64.0,3580.833333333333,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
 8.48528137423857,8.48528137423857,72.0,3761.6666666666665,5,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.6,4.0,61.1,4296.25,6,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+11.0,3.4,37.4,4066.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,4.0,64.0,3027.5,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+13.5,4.0,56.0,3869.1666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+7.810249675906654,7.810249675906654,61.0,4440.0,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hòa
+10.0,5.0,50.0,3833.3333333333335,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+8.246211251235321,8.246211251235321,68.0,3492.5,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+16.0,4.0,64.0,3710.8333333333335,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hòa
+12.0,4.0,48.0,4253.333333333333,3,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+20.0,4.0,81.0,5118.333333333333,6,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+12.0,4.0,47.0,3634.5833333333335,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+10.0,3.0,30.0,4165.416666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+23.0,4.0,93.0,2777.9166666666665,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+10.0,4.2,42.0,4414.583333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+10.0,5.0,45.0,3333.333333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+15.0,4.1,61.0,4440.0,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+17.0,4.0,68.0,3492.5,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+8.0,4.0,35.0,3214.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+12.0,3.8,46.0,3170.4166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+11.0,3.4,35.0,4345.416666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+16.0,8.0,147.0,4251.666666666667,6,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+14.0,4.0,56.0,2976.25,6,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+18.4,5.0,93.0,2464.1666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.5,4.0,50.0,3916.6666666666665,5,4.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+25.0,10.0,250.0,3833.3333333333335,4,4.0,6.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+20.0,4.0,80.0,4525.833333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+11.0,4.1,44.0,5539.583333333333,5,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,3.0,30.0,4583.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+20.0,4.0,80.0,2525.833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,4.0,52.0,3045.0,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+9.0,4.0,37.0,4504.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+18.0,4.0,72.0,6076.25,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+8.0,5.2,40.0,4895.833333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+8.0,3.0,24.0,5034.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+14.5,4.0,60.0,3402.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+11.0,4.0,44.0,4024.5833333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+12.0,5.0,60.0,3680.4166666666665,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+11.5,4.0,48.0,3038.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+13.6,5.2,75.0,3166.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+12.0,4.0,46.0,3614.1666666666665,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+14.0,4.0,54.0,3086.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+18.5,4.0,74.0,3941.25,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+14.0,4.0,56.0,3407.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+19.5,4.5,86.0,2374.1666666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+11.0,4.0,48.0,4036.6666666666665,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+18.0,4.0,70.0,2767.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+15.0,4.0,60.0,3819.5833333333335,4,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+14.0,5.0,70.0,1892.9166666666667,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+16.0,4.0,64.0,3906.25,4,5.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+18.0,4.0,72.0,4340.416666666667,3,3.0,4.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường an lạc a
+10.0,4.5,45.0,5898.333333333333,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+16.0,5.0,78.5,3343.75,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+20.0,5.0,100.0,2791.6666666666665,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,3.7,40.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.5,4.0,50.0,5166.666666666667,3,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+23.0,5.5,120.0,1788.3333333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+20.0,5.0,100.0,2145.833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+20.0,4.0,80.0,2447.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+6.5,4.0,25.0,3983.3333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+12.5,4.5,56.0,4464.166666666667,5,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.0,4.0,48.0,3992.9166666666665,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+8.0,4.0,32.0,2447.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+16.0,4.0,64.0,3710.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+12.0,4.0,48.0,3446.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+25.0,3.8,101.0,1856.25,8,2.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường tân tạo
+20.0,4.5,90.0,3703.75,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+19.0,4.0,76.0,2247.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.0,4.0,65.0,3621.6666666666665,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+11.0,4.0,44.9,5753.333333333333,4,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+11.0,5.0,51.0,4207.5,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+20.0,5.0,100.0,5625.0,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+18.0,4.0,75.0,3333.333333333333,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+26.0,13.0,270.0,4012.5,5,3.0,6.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường tân tạo
+13.0,9.0,123.0,4403.75,5,4.0,5.0,nhà biệt thự,đã có sổ,nội thất đầy đủ,phường an lạc
+7.071067811865476,7.071067811865476,50.0,5166.666666666667,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+12.0,4.0,48.0,4947.916666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+6.5,4.5,28.0,4017.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,4.0,80.0,5724.166666666667,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+10.0,3.0,31.0,4099.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+14.5,4.0,58.0,3017.083333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+17.0,4.5,76.5,2832.083333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+20.0,3.2,64.0,2408.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+8.0,4.0,32.0,4947.916666666667,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,57.0,4385.833333333333,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+12.0,3.4,42.0,2777.9166666666665,5,4.0,3.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,nội thất đầy đủ,phường an lạc
+5.916079783099616,5.916079783099616,35.0,1785.8333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo a
+18.0,4.0,72.0,2343.75,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+15.0,4.0,60.0,2916.6666666666665,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.0,4.3,51.6,4723.75,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+16.0,5.0,79.0,3322.9166666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+8.0,4.0,32.0,3710.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+4.0,3.0,12.0,3298.75,2,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+17.0,4.56,77.52,1881.25,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+11.0,4.0,44.0,2206.25,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+11.0,4.0,44.0,3598.333333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+14.0,4.0,56.0,3645.8333333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+18.1,5.5,102.0,2839.1666666666665,5,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+20.0,9.0,180.0,8333.333333333334,6,4.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+18.0,4.0,76.0,2850.833333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+8.0,3.5,30.0,3680.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+6.324555320336759,6.324555320336759,40.0,2291.6666666666665,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+9.0,4.0,36.0,3356.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+17.0,4.0,68.0,2815.4166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+20.0,4.0,80.0,2708.333333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+3.1622776601683795,3.1622776601683795,10.0,9375.0,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+10.0,4.0,40.0,2083.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo a
+16.0,4.0,64.0,2734.1666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+23.5,4.0,94.0,3900.8333333333335,3,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+24.0,5.0,120.0,3468.75,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc a
+8.0,4.0,32.0,2539.1666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+7.0,4.0,28.0,2976.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+4.7,3.2,14.8,6475.416666666667,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,4.0,40.0,4010.4166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+14.0,4.5,62.0,3897.9166666666665,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+14.0,5.6,78.4,1807.0833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+3.5,4.5,15.7,5255.0,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+23.0,4.0,91.0,3662.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+10.0,4.1,41.0,4756.25,3,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+6.5,3.6,23.6,4555.0,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+28.3,5.3,150.0,2111.25,3,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+15.0,4.0,60.0,3534.583333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,3.0,30.0,4152.916666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+10.0,4.0,40.0,3906.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+12.0,4.2,50.0,3241.6666666666665,3,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+14.0,12.0,116.0,2076.25,5,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+12.0,4.0,48.0,4236.25,2,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình trị đông
+15.5,5.0,77.0,1677.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+11.0,3.3,36.0,3460.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+14.0,4.0,56.0,2752.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+19.5,4.5,86.0,2374.1666666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+5.0,3.0,15.0,5527.916666666667,2,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+5.916079783099616,5.916079783099616,35.0,3571.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+5.0,4.0,20.0,3645.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đang chờ sổ,,phường bình trị đông b
+14.5,4.0,57.0,4532.083333333333,3,3.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+13.0,5.5,68.0,3676.6666666666665,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+14.0,4.0,56.0,3601.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+8.0,4.0,32.0,4531.25,2,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,4.1,66.0,3914.1666666666665,5,4.0,4.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,3125.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+13.0,4.0,50.0,4125.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+16.5,4.0,68.0,3860.4166666666665,4,3.0,2.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+12.0,4.0,48.0,3775.8333333333335,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+17.0,4.0,68.0,4963.333333333333,6,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,5.0,68.0,3645.8333333333335,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+11.0,4.0,44.0,1893.75,2,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+10.5,4.0,41.0,4319.166666666667,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.0,4.1,44.0,3030.4166666666665,2,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hòa
+16.5,4.0,65.0,4153.75,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông
+19.0,4.0,76.0,3563.75,7,5.0,6.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+19.0,9.0,170.0,3431.25,3,4.0,5.0,nhà biệt thự,đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+1200.0,2500.0,50.0,1041.6666666666667,2,1.0,2.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,hoàn thiện cơ bản,phường bình hưng hoà b
+10.5,4.0,42.0,3918.75,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+14.0,4.0,64.0,3255.0,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+19.0,4.0,76.0,2187.5,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+20.0,4.0,80.0,3099.1666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+10.0,2.7,27.0,3549.583333333333,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.5,54.0,5015.416666666667,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+16.0,4.0,66.0,4166.666666666667,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+14.0,4.5,63.0,6018.333333333333,4,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+7.0,3.0,21.0,4960.416666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+25.0,4.0,100.0,2041.6666666666667,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+11.0,5.4,62.0,2452.9166666666665,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+4.16,3.0,12.5,7000.0,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.0,62.0,4704.166666666667,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+25.0,4.0,100.0,2625.0,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+14.0,4.0,56.0,3571.25,6,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+15.0,4.0,60.0,4236.25,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+12.2,5.0,61.0,3330.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+4.0,5.0,20.0,5312.5,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+16.0,4.0,64.0,4427.083333333333,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+17.0,4.0,68.0,3921.6666666666665,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,4.0,44.0,3643.75,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+31.0,10.0,316.0,1780.0,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+10.0,5.0,50.0,4333.333333333333,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+20.0,4.0,80.0,5677.083333333333,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+20.0,5.0,100.0,6375.0,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+8.0,4.15,33.0,2714.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
+12.0,4.0,48.0,5078.333333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+15.0,4.0,60.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+6.5,4.0,26.5,3773.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,3.0,26.0,3765.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+12.0,4.3,51.6,4845.0,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+33.0,83.0,270.0,2622.083333333333,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+15.0,4.0,60.0,4020.8333333333335,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+8.5,3.0,25.0,6583.333333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,4.0,53.0,3105.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+7.5,3.5,25.0,4416.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+25.0,6.0,150.0,2916.6666666666665,5,4.0,6.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường bình hưng hòa
+13.0,4.8,62.0,2889.583333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+7.0,4.5,28.0,4017.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,4253.333333333333,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+16.0,4.0,64.0,2669.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.0,4.0,40.0,2291.6666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+17.0,4.0,73.0,2454.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,4.0,56.0,4456.666666666667,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,4.5,63.0,5225.0,4,3.0,5.0,nhà phố liền kề,đã có sổ,,phường bình hưng hòa
+6.7,2.8,16.7,6362.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+12.0,4.0,48.0,2934.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+11.0,4.0,44.0,5994.166666666667,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.0,4010.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+10.0,4.0,40.0,2343.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+22.0,4.0,88.0,3314.583333333333,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+5.0,5.0,25.0,5666.666666666667,5,5.0,3.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hòa
+10.0,3.0,30.0,3263.75,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình trị đông a
+15.0,4.0,60.0,2500.0,4,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.5,4.0,57.0,3727.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.25,5.0,51.1,4077.0833333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+14.0,5.0,68.0,3602.9166666666665,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+20.0,9.0,180.0,8333.333333333334,5,6.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+11.0,5.0,55.0,2424.1666666666665,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+25.0,4.0,100.0,1500.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+20.0,4.0,80.0,3099.1666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.5,4.0,41.0,4877.916666666667,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.5,4.0,45.0,4333.333333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,5.5,77.0,2759.583333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,4.0,40.0,5208.333333333333,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+4.242640687119285,4.242640687119285,18.0,4583.333333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+12.0,4.0,54.0,3780.8333333333335,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.0,48.0,5208.333333333333,5,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+14.0,4.0,56.0,2715.833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,4.8,64.0,2799.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+16.0,4.0,64.0,3906.25,5,4.0,5.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà a
+10.0,5.0,50.0,4416.666666666667,4,4.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+15.0,3.8,57.0,1827.5,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+20.0,4.0,80.0,4739.583333333333,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+16.0,4.0,65.0,3589.583333333333,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+14.0,4.0,55.0,6439.583333333333,3,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+20.0,5.0,100.0,5625.0,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+20.0,4.0,81.0,3446.6666666666665,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+8.0,3.0,24.0,4270.833333333333,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+22.0,4.0,86.0,3149.1666666666665,4,3.0,4.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường an lạc
+12.0,4.0,46.0,1992.9166666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo
+19.0,5.5,102.0,2920.833333333333,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.5,4.0,70.0,2737.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,4.0,44.0,4024.5833333333335,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+11.5,4.0,47.0,3014.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+20.0,6.0,120.0,4930.416666666667,5,3.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+14.5,4.0,58.0,3520.0,2,2.0,2.0,nhà phố liền kề,đã có sổ,,phường an lạc
+17.3,6.0,104.0,3005.0,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+16.0,4.1,65.8,3989.1666666666665,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+18.0,6.0,108.0,1813.3333333333333,3,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+12.0,6.2,75.0,2111.25,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+19.0,4.0,73.0,4280.833333333333,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+12.0,4.0,48.0,4644.166666666667,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+18.0,4.5,81.0,2469.1666666666665,4,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+23.0,4.0,93.0,2822.5,4,2.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+20.0,8.0,160.0,4947.916666666667,6,3.0,6.0,nhà biệt thự,đã có sổ,nội thất đầy đủ,phường bình trị đông b
+10.0,6.5,65.0,2788.333333333333,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+11.0,4.0,44.0,4024.5833333333335,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+13.0,4.0,50.0,4583.333333333333,5,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông a
+14.0,4.0,56.0,3608.75,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+13.0,4.0,52.0,4206.666666666667,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.2,65.0,2756.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+10.0,3.0,30.0,4583.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+30.0,4.3,125.0,3966.6666666666665,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+12.0,4.5,54.0,2392.083333333333,2,1.0,1.0,nhà phố liền kề,đã có sổ,,phường tân tạo
+8.2,4.0,32.8,4357.083333333333,3,1.0,1.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+8.5,4.0,33.0,4507.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.0,4.0,44.0,4072.0833333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+20.0,4.5,90.0,9490.833333333334,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+9.5,3.8,36.0,5150.416666666667,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,4.0,56.0,3348.333333333333,4,3.0,4.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà b
+9.0,4.0,36.0,4155.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,3906.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+16.0,4.4,70.0,2737.9166666666665,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.0,48.0,2821.25,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+12.0,5.0,61.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+23.0,4.0,93.0,2374.583333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+15.0,5.0,75.0,2611.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+25.0,6.0,148.0,2956.25,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+17.0,4.0,68.0,2297.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+16.0,4.0,64.0,4101.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+8.0,4.0,32.0,3906.25,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+19.0,4.0,76.0,6140.416666666667,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+12.5,4.0,50.0,5250.0,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+7.0,4.1,29.0,4454.166666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.7,4.0,66.5,3195.4166666666665,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+20.0,5.0,100.0,2745.833333333333,6,2.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,5.0,50.0,2250.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,4.4,53.0,3262.5,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+12.0,3.0,36.5,2454.1666666666665,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình trị đông
+16.0,8.0,125.0,2500.0,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+13.0,4.8,62.4,2837.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+12.0,4.3,51.6,4239.166666666667,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+26.0,4.1,108.0,4050.8333333333335,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường tân tạo a
+8.0,4.0,32.0,3906.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,60.0,3541.6666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông b
+14.0,4.0,56.0,3720.4166666666665,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+25.0,4.0,100.0,7083.333333333333,4,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông a
+11.0,3.6,36.0,3472.083333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+19.0,4.0,75.0,1722.0833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+11.0,4.0,44.0,3787.9166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,48.0,3602.5,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+16.0,5.0,80.0,1979.1666666666667,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+17.0,4.0,66.0,3219.583333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+7.745966692414834,7.745966692414834,60.0,2395.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.0,64.0,4231.666666666667,5,4.0,6.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+18.22,5.0,91.8,2496.25,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+14.0,6.0,72.0,4108.75,4,5.0,6.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường an lạc
+19.0,4.0,73.0,4280.833333333333,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+11.0,4.0,44.0,3456.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+8.246211251235321,8.246211251235321,68.0,3676.6666666666665,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hòa
+15.0,4.0,58.0,3648.75,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+18.0,3.0,54.0,2762.5,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.0,4.2,62.0,3897.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+12.0,4.0,48.0,3125.0,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+11.0,6.0,67.0,2705.4166666666665,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+23.0,4.0,92.0,2400.4166666666665,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+11.2,6.0,67.0,2705.4166666666665,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+18.0,7.0,126.0,4795.0,4,2.0,5.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+8.2,4.0,32.5,3653.75,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+10.0,4.0,40.0,5156.25,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+10.0,2.7,27.0,3472.083333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+6.2,4.0,24.0,5815.833333333333,2,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
+11.0,5.0,54.0,3626.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+11.0,4.0,44.0,3485.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+9.2,5.7,52.2,2195.0,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+10.0,3.7,37.0,2646.25,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+17.0,4.0,68.0,2880.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.0,2.7,27.0,3472.083333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+16.0,4.0,64.0,3906.25,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+20.0,4.02,80.0,3854.1666666666665,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,60.0,4444.583333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+16.0,4.0,64.0,4088.3333333333335,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,4.0,72.0,5671.25,4,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+18.0,4.7,89.0,3740.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,4.5,90.0,9490.833333333334,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+26.0,4.0,104.0,1815.0,2,1.0,2.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà b
+14.0,4.0,56.0,4307.916666666667,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+15.0,4.0,60.0,3680.4166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,54.0,3780.8333333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,6.0,60.0,2777.9166666666665,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+20.0,4.0,80.0,2447.9166666666665,6,1.0,7.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+9.219544457292889,9.219544457292889,85.0,4313.75,5,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hòa
+3.605551275463989,3.605551275463989,13.0,6890.833333333333,2,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+20.0,7.0,140.0,4315.416666666667,4,3.0,5.0,nhà biệt thự,đã có sổ,nội thất đầy đủ,phường bình trị đông b
+15.0,4.0,60.0,4722.083333333333,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+3.5,4.5,15.75,5237.916666666667,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo
+10.0,4.0,40.0,2760.4166666666665,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,56.0,4166.666666666667,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+14.5,4.0,57.0,3727.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông b
+15.0,4.0,60.0,3117.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+11.0,5.0,55.0,2424.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+15.0,4.0,64.0,3710.8333333333335,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+18.7,4.0,75.0,2277.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+21.0,6.0,130.0,8974.166666666666,6,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc a
+10.0,5.0,50.0,4000.0,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+15.2,4.0,61.0,4706.25,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+10.25,5.0,51.25,4024.5833333333335,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,13.0,170.0,3308.75,3,2.0,3.0,nhà biệt thự,đã có sổ,,phường an lạc
+9.0,4.0,36.0,4155.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+8.5,3.0,25.5,4085.0,6,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+14.0,4.0,56.0,3794.5833333333335,3,2.0,3.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,,phường bình trị đông a
+7.2,4.1,29.2,3967.0833333333335,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+19.0,4.0,76.0,3399.1666666666665,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+17.0,3.8,65.0,2628.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+10.0,3.0,30.0,3263.75,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+17.0,9.2,155.0,2607.5,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+9.0,4.0,36.0,3992.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+5.0,5.0,25.0,5583.333333333333,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,2.7,27.0,3472.083333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.5,4.0,42.0,4216.25,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+5.0,4.0,20.0,3645.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",giấy tờ viết tay,,phường bình trị đông b
+12.7,4.1,52.0,4647.5,3,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+16.0,4.0,64.0,2962.083333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+15.0,4.0,60.0,3854.1666666666665,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+20.0,5.0,100.0,5625.0,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+18.0,4.0,72.0,3935.0,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+15.0,4.0,60.0,3715.4166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+8.0,4.0,32.0,3906.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+8.0,5.0,40.0,2864.583333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+18.0,5.5,99.0,1704.5833333333333,7,1.0,7.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+27.0,4.0,112.0,2790.0,6,6.0,7.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.0,5.0,77.0,1677.5,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+15.0,4.0,60.0,3298.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,4.0,55.0,4242.5,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+8.0,8.0,64.0,2604.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+18.0,4.0,72.0,1736.25,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+20.0,4.0,80.0,3489.583333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,4.0,52.0,4407.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+11.0,4.0,44.0,3485.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+22.0,10.0,220.0,6628.75,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+16.0,4.0,64.0,3841.25,4,3.0,4.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hòa
+15.0,4.0,60.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+11.5,4.0,46.0,5344.166666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,60.0,2187.5,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+11.0,4.0,44.0,4072.0833333333335,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+33.0,8.3,268.0,2641.6666666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+12.0,3.7,45.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,5.0,100.0,3708.3333333333335,4,5.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,3.1,30.0,2916.6666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,68.0,3553.75,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+15.0,5.5,82.0,3805.8333333333335,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+16.0,4.0,64.0,2701.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.0,4.0,48.0,3472.083333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+13.0,4.0,52.0,4126.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+20.0,4.0,80.0,2447.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+18.0,4.0,72.0,4600.833333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.2,4145.833333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+14.0,10.0,140.0,3422.5,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.5,4.0,42.0,4315.416666666667,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+14.0,4.0,56.0,3720.4166666666665,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+18.0,4.0,72.0,3240.833333333333,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+18.0,4.0,77.0,5898.333333333333,6,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+20.0,4.1,81.0,4063.75,8,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+27.0,8.0,216.0,4243.75,6,3.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+11.0,5.0,55.0,3560.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+10.0,3.0,30.0,2361.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+10.0,4.5,45.0,3240.833333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+33.0,8.2,270.0,2623.333333333333,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+10.0,4.0,40.0,4583.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+6.928203230275509,6.928203230275509,48.0,3211.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+15.0,4.0,60.0,4583.333333333333,5,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+15.5,5.0,77.0,1677.5,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+19.0,6.0,113.0,4387.916666666667,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+10.0,4.0,40.0,4156.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.0,4.0,60.0,3117.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+17.0,4.0,68.0,3370.0,5,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+9.142857142857142,7.0,64.0,2929.583333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+15.0,4.0,60.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+17.0,4.0,68.0,2880.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,3.0,30.0,2777.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+16.0,4.0,64.0,6510.416666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.0,3.8,53.2,3642.0833333333335,4,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+13.0,4.8,62.5,2833.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.0,4.0,52.0,4246.666666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+21.0,3.0,63.0,2513.333333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+16.0,4.0,64.0,4036.6666666666665,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+10.5,4.0,42.0,4216.25,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+8.0,8.0,64.0,4264.166666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+11.0,4.0,44.0,2083.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
+10.5,4.0,41.6,4256.666666666667,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+11.0,4.0,44.0,3882.5,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+15.0,5.0,75.0,3272.083333333333,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+10.0,4.0,40.0,4156.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+6.557438524302,6.557438524302,43.0,2519.583333333333,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+33.0,10.5,270.0,2623.333333333333,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,2604.1666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,4.0,64.0,4524.583333333333,5,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc a
+17.0,4.0,68.0,3278.333333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+11.0,4.0,44.0,3456.25,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+15.0,4.0,60.0,2534.583333333333,2,2.0,2.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà b
+11.5,4.0,46.0,3070.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,3697.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+21.0,4.0,84.0,8333.333333333334,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+19.0,4.0,75.0,2500.0,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+20.0,4.5,90.0,4398.333333333333,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+14.0,4.0,56.0,3348.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+14.0,7.0,98.0,2742.5,7,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+14.0,8.0,112.0,3385.4166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+27.0,8.0,216.0,2315.0,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+13.0,4.0,52.0,4327.083333333333,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.0,3.4,42.0,2777.9166666666665,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+10.0,4.0,40.0,2083.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+24.0,4.0,96.0,5165.0,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+14.0,4.25,58.0,3951.25,2,1.0,1.0,"nhà mặt phố, mặt tiền",đang chờ sổ,nội thất đầy đủ,phường bình hưng hòa
+11.0,4.0,44.0,3503.75,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+7.66,3.5,28.0,5357.083333333333,5,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+11.0,4.0,44.0,3787.9166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+18.0,4.0,72.0,3350.833333333333,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+5.0,5.0,25.0,5666.666666666667,5,5.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+17.0,4.0,68.0,3217.083333333333,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+7.0,4.0,28.0,4137.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+9.0,4.0,36.0,4745.416666666667,3,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+10.5,4.1,44.0,3882.5,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+11.0,5.0,56.0,2380.833333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+5.0,5.0,25.0,5583.333333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+8.48528137423857,8.48528137423857,72.0,4050.8333333333335,3,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình trị đông
+11.5,4.0,45.0,2777.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+17.0,4.0,68.0,1838.3333333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+17.5,4.0,70.0,2380.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+5.5,11.0,58.0,2334.583333333333,2,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+16.5,4.0,66.0,4608.75,5,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường tân tạo
+13.5,4.0,54.0,3850.4166666666665,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+14.0,6.0,81.0,5144.166666666667,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+20.0,4.0,80.0,2859.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,8.0,161.0,2298.333333333333,5,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+5.0,5.0,25.0,5583.333333333333,5,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+20.0,4.0,80.0,4687.5,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+10.0,4.0,40.0,2166.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+10.0,4.0,40.0,4427.083333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+12.0,4.0,46.0,4429.166666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+20.0,7.0,140.0,4404.583333333333,6,3.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+10.0,4.0,40.0,2322.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+14.0,4.5,63.0,4431.25,5,5.0,5.0,"nhà ngõ, hẻm",đang chờ sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,48.0,3992.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+6.0,3.65,22.0,3390.0,1,2.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+6.8,4.3,28.0,2827.5,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+11.0,4.05,45.0,3305.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+4.0,4.5,16.0,5156.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+15.0,4.0,60.0,3437.5,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.3,4.56,76.0,1957.0833333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+14.0,5.0,70.0,3273.75,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+17.0,4.5,70.5,5260.0,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường tân tạo a
+14.0,5.0,70.0,2375.0,6,3.0,7.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo a
+13.5,4.0,52.0,3605.8333333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+7.0,3.0,21.0,4742.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+11.5,4.5,52.0,3325.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+8.0,4.0,32.0,4492.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+11.0,3.3,33.0,3535.4166666666665,5,3.0,3.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,hoàn thiện cơ bản,phường an lạc
+15.0,8.0,120.0,4826.25,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+11.6,10.5,121.0,3099.1666666666665,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+7.5,4.2,30.0,3541.6666666666665,1,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+15.0,4.0,58.0,4058.75,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+40.0,4.8,160.0,1640.8333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,5.0,100.0,2041.6666666666667,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+13.0,4.0,52.0,3765.8333333333335,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+9.3,4.5,42.2,2201.6666666666665,5,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+12.0,4.0,48.0,3211.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+6.324555320336759,6.324555320336759,40.0,2500.0,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,3.7,45.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+15.0,4.0,60.0,2742.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,2343.75,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+9.0,5.0,45.0,3518.333333333333,2,3.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.0,4.0,68.0,3615.0,5,3.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+30.0,4.0,120.0,2812.5,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+20.0,4.0,80.0,3125.0,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,6.0,61.0,3995.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+18.0,4.0,72.0,3240.833333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,4.0,40.0,2812.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+18.0,4.5,81.0,411.6666666666667,2,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+14.0,4.0,56.0,3638.3333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,4.1,41.0,7103.75,4,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+8.4,10.0,84.0,3720.4166666666665,8,2.0,7.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+10.0,4.0,41.0,4857.916666666667,4,4.0,4.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hòa
+20.0,4.0,80.0,3072.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+15.5,4.0,62.0,3494.583333333333,6,5.0,6.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+13.0,4.0,64.0,2929.583333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+14.0,4.0,56.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.7,4.0,67.0,2916.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+8.0,4.0,32.0,4166.666666666667,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+14.0,4.0,54.0,4166.666666666667,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+11.0,5.5,58.0,2334.583333333333,2,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+4.4,3.0,13.2,6786.666666666667,2,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+16.0,4.0,64.0,4166.666666666667,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+20.0,7.0,140.0,4404.583333333333,6,4.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+20.0,4.0,80.0,5937.5,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+13.0,4.5,57.0,4459.166666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+19.0,4.4,82.6,2320.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+20.0,4.0,80.0,2604.1666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+12.2,3.8,64.0,2929.583333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+16.0,4.0,78.2,3303.333333333333,4,3.0,5.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+14.0,8.0,112.0,3534.1666666666665,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,5.5,120.0,1822.9166666666667,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+15.0,4.0,60.0,3291.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+15.0,4.0,58.0,3519.583333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,4.0,41.0,3963.3333333333335,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+8.2,5.8,44.0,3267.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+9.0,4.0,36.0,4224.583333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+19.0,4.0,75.0,2277.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+16.0,4.0,66.0,3914.1666666666665,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+16.0,4.0,64.0,3385.4166666666665,5,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+16.0,4.0,64.0,2995.0,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+7.416198487095663,7.416198487095663,55.0,1742.5,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo a
+20.0,4.5,90.0,4537.083333333333,3,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+11.5,4.0,46.0,3161.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+9.0,4.0,36.0,3356.6666666666665,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+14.5,5.0,77.0,2597.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+12.0,4.0,48.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.5,4.0,50.0,3333.333333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+11.0,3.5,37.0,4110.416666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.5,4.0,42.0,4315.416666666667,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+11.0,5.0,55.0,1727.0833333333333,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.0,4.0,70.0,3387.083333333333,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+21.0,4.1,85.0,5392.083333333333,3,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc a
+14.5,4.0,58.0,2873.75,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+20.0,4.2,84.0,4712.5,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc a
+13.0,4.0,52.0,3645.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+15.0,4.0,61.0,4712.916666666667,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+9.0,4.0,36.0,2315.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+18.0,6.0,108.0,1813.3333333333333,3,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+20.0,5.0,100.0,2125.0,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+18.0,8.0,144.0,1736.25,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+18.0,6.0,108.0,3047.9166666666665,5,1.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+24.0,5.0,120.0,2326.25,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.0,5.0,78.0,2564.1666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+19.0,12.0,230.0,2355.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+13.0,4.0,54.0,4012.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,4.0,40.0,4479.166666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.0,4.0,48.0,5208.333333333333,5,6.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+7.0,3.0,21.0,4960.416666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+8.0,5.0,40.0,4166.666666666667,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+14.0,4.0,56.0,3645.8333333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,4.1,41.0,6097.5,4,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+20.0,10.0,200.0,8750.0,6,4.0,7.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+9.0,4.0,50.0,2416.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+14.0,4.0,56.0,3869.1666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+24.0,5.0,120.0,2326.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,5.0,45.0,3333.333333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
+12.0,4.0,48.0,5208.333333333333,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hòa
+9.219544457292889,9.219544457292889,85.0,3186.25,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,bàn giao thô,phường tân tạo
+14.0,5.0,70.0,2732.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+16.0,4.0,64.0,4492.083333333333,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+17.0,4.0,68.0,3241.25,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+14.0,6.0,82.0,4675.0,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+18.0,3.5,63.0,3174.583333333333,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.0,48.0,3862.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+9.0,4.5,40.0,3645.8333333333335,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
+24.0,4.0,94.0,4875.833333333333,5,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+7.0,4.0,28.0,3616.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,4.0,40.0,3593.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,5.0,65.0,2179.583333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,4036.6666666666665,2,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.5,4.0,52.0,3886.25,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+9.5,4.0,40.0,5052.083333333333,3,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+21.0,14.0,287.5,2101.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường tân tạo
+17.0,4.56,129.0,1130.4166666666667,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+4.4,3.0,13.0,6890.833333333333,2,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+7.0,3.3,21.0,4960.416666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+14.0,4.0,56.0,3608.75,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+15.0,4.0,60.0,3298.75,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+17.0,4.0,68.0,3278.333333333333,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+17.0,4.0,68.0,2873.75,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,5.0,80.0,3541.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+14.0,5.0,68.0,3063.75,2,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường an lạc
+13.0,4.0,52.0,4150.833333333333,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+14.0,4.0,55.0,3863.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.3,51.6,4723.75,6,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+6.708203932499369,6.708203932499369,45.0,3425.833333333333,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+17.0,4.2,71.0,2816.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,5.0,80.0,2135.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+11.0,5.0,55.0,3560.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+14.0,4.2,60.0,2951.25,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+14.0,4.0,56.0,3348.333333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+19.0,4.0,76.0,3453.75,6,4.0,4.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường an lạc
+14.0,4.0,56.0,3497.083333333333,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+15.0,5.0,75.0,2666.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+14.0,4.0,56.0,3757.5,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.1,42.0,5952.5,4,5.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+19.0,4.0,76.0,4166.666666666667,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+12.0,4.5,54.0,3850.4166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+12.0,5.4,65.0,2275.833333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+5.0,4.0,20.0,3645.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+20.0,8.0,160.0,5078.333333333333,6,3.0,6.0,nhà phố liền kề,đã có sổ,,phường bình trị đông b
+14.0,4.0,56.0,4092.0833333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.0,4.0,42.2,1866.25,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+13.0,4.0,52.0,2564.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+8.0,3.0,60.0,2986.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+8.0,4.0,32.0,5012.916666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+20.0,4.0,80.0,3906.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+7.615773105863909,7.615773105863909,58.0,3951.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+13.5,4.0,52.0,3998.3333333333335,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+11.0,4.0,44.0,6013.333333333333,5,5.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+17.0,4.0,68.0,6740.0,6,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+5.0,3.5,23.0,1358.75,2,1.0,1.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,nội thất đầy đủ,phường tân tạo
+9.0,4.0,36.0,5324.166666666667,3,4.0,4.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà a
+13.0,4.0,52.0,5753.333333333333,5,5.0,5.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+17.0,4.0,66.0,2714.583333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+9.0,4.0,36.0,3703.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+6.324555320336759,6.324555320336759,40.0,2322.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
+21.0,4.0,85.0,5294.166666666667,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+20.0,5.0,100.0,5625.0,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+9.2,3.2,30.0,3750.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+17.5,5.0,87.5,3237.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+18.0,4.0,72.0,4224.583333333333,4,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+6.324555320336759,6.324555320336759,40.0,2322.9166666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
+14.0,4.0,56.0,3534.1666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+12.5,4.0,50.0,3041.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+20.0,4.2,84.0,4712.5,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+16.0,4.0,64.0,2929.583333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+10.0,4.0,40.0,2072.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+7.071067811865476,7.071067811865476,50.0,2166.6666666666665,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+7.0,4.0,28.0,2827.5,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+13.0,4.0,52.0,3285.4166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+18.0,4.0,73.0,3196.25,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+20.0,4.5,90.0,4166.666666666667,5,5.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+17.0,4.0,68.0,3186.25,5,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo a
+16.0,8.0,128.0,2115.833333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+5.656854249492381,5.656854249492381,32.0,4427.083333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+11.5,4.8,55.0,1931.6666666666667,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường tân tạo
+6.0,3.0,18.0,2315.0,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.5,54.0,4475.416666666667,3,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+10.0,4.0,40.0,4156.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+20.0,7.0,140.0,4315.416666666667,6,3.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+11.0,6.0,66.0,2746.25,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+19.31,4.2,90.2,2263.333333333333,3,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+16.0,4.0,64.0,3385.4166666666665,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+14.5,4.0,50.3,4721.666666666667,4,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+10.5,4.0,42.0,4216.25,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,60.0,4652.916666666667,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,2291.6666666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+15.0,4.0,60.0,4027.9166666666665,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.0,4218.75,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+19.0,8.0,154.0,2164.583333333333,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+8.0,3.1,25.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+16.0,4.0,64.0,2734.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+22.0,10.0,218.0,6689.583333333333,5,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+10.0,5.5,52.0,4166.666666666667,4,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+10.5,6.0,60.0,2777.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+5.656854249492381,5.656854249492381,32.0,4492.083333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,59.0,2118.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+13.0,4.0,52.0,2403.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+10.5,4.2,41.0,4370.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+16.0,4.0,64.0,4231.666666666667,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,3906.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+22.0,4.0,88.0,3361.6666666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+25.0,4.0,100.0,4916.666666666667,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+15.0,4.0,60.0,3819.5833333333335,4,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+19.0,4.0,76.0,2247.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+8.0,8.0,64.0,3873.75,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+14.8,4.0,59.2,4363.75,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+17.0,4.0,68.0,3431.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,3520.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+3.605551275463989,3.605551275463989,13.0,6890.833333333333,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+11.0,4.0,44.0,4024.5833333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+12.0,4.0,48.0,2560.833333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+15.0,4.0,60.0,1840.4166666666667,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+14.5,4.0,58.0,5172.5,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+10.0,4.0,40.0,2812.5,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+13.0,3.5,40.0,3125.0,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+8.0,3.0,23.0,4710.0,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+21.0,8.0,169.2,2536.25,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+14.0,4.0,56.0,2604.1666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo a
+8.0,4.0,32.0,3906.25,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+16.0,4.0,64.0,4947.916666666667,4,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+10.5,4.0,41.0,4065.0,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,5.5,55.0,2500.0,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+24.0,6.0,135.0,2129.583333333333,4,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+11.0,4.0,44.0,5681.666666666667,5,6.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+17.0,4.0,68.0,2450.833333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+17.0,5.0,85.0,3676.6666666666665,6,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+20.0,4.0,80.0,3906.25,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+17.0,3.2,57.0,2668.333333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+7.615773105863909,7.615773105863909,58.0,2047.5,4,3.0,5.0,nhà phố liền kề,đã có sổ,hoàn thiện cơ bản,phường an lạc
+19.0,10.0,190.0,5043.75,4,4.0,5.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+14.5,5.0,72.5,2758.75,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+6.6332495807108,6.6332495807108,44.0,2177.9166666666665,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+13.0,13.0,171.0,3411.25,5,2.0,2.0,nhà biệt thự,đã có sổ,,phường an lạc
+15.0,4.0,53.0,3577.083333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+6.324555320336759,6.324555320336759,40.0,2604.1666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+12.0,4.0,48.0,3376.6666666666665,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+22.0,10.0,220.0,6628.75,4,1.0,5.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+20.0,5.0,100.0,3125.0,5,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,4.0,56.0,3712.9166666666665,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+16.2,3.54,57.0,4020.4166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+11.5,3.5,40.0,1822.9166666666667,2,2.0,2.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,,phường bình hưng hoà b
+9.0,4.0,36.0,4455.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+20.0,8.0,160.0,4947.916666666667,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+24.0,4.0,96.0,5121.666666666667,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+10.0,4.0,40.0,4052.0833333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+14.0,4.0,56.0,3050.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+13.0,4.0,50.0,2833.333333333333,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.5,4.0,42.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+11.0,4.0,44.0,947.0833333333334,2,1.0,1.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,hoàn thiện cơ bản,phường bình trị đông a
+20.4,4.3,88.0,2982.9166666666665,3,3.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,8.0,144.0,2748.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+8.94427190999916,8.94427190999916,80.0,3489.583333333333,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+18.0,4.0,73.0,3139.1666666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+14.0,4.0,66.0,2209.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+12.0,4.0,48.0,3081.6666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+20.0,4.0,80.0,5625.0,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+22.0,8.0,201.0,5804.166666666667,5,3.0,5.0,nhà biệt thự,đã có sổ,,phường an lạc a
+10.0,5.0,50.0,3750.0,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+15.0,8.0,115.0,3587.083333333333,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+16.0,4.05,62.0,3965.0,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+16.5,4.0,66.0,4166.666666666667,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+11.0,4.0,44.0,3267.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
+19.0,4.0,76.0,4057.0833333333335,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,5.7,82.0,2383.333333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+16.0,4.1,65.0,4038.3333333333335,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+8.246211251235321,8.246211251235321,68.0,2880.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+23.0,6.0,138.0,3774.1666666666665,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+12.0,3.0,28.0,5059.583333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+30.0,4.0,120.0,5208.333333333333,3,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+19.0,4.0,75.0,2222.083333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+18.5,4.0,75.0,2777.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+23.0,4.0,91.0,4944.583333333333,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+20.0,4.0,80.0,4947.916666666667,4,2.0,5.0,nhà phố liền kề,đã có sổ,,phường bình trị đông b
+12.0,4.0,50.0,4958.333333333333,4,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,7290.416666666667,4,5.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+10.0,3.0,30.0,4513.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.0,4.0,42.0,4166.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,4.5,95.0,2390.4166666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo a
+8.2,5.8,44.0,3267.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+8.0,3.0,24.0,3125.0,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+16.0,4.3,70.0,2976.25,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,4.0,40.0,3645.8333333333335,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,4.0,40.0,2291.6666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+5.0,4.2,21.0,3412.5,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+20.0,5.0,100.0,4375.0,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+15.0,4.0,60.0,3472.083333333333,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+19.0,4.0,76.0,2247.9166666666665,3,2.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+15.0,4.0,60.0,3471.6666666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+16.0,4.0,64.0,3775.8333333333335,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+11.0,4.0,44.0,2982.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.5,4.0,42.0,5257.916666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.6,4.0,66.0,4166.666666666667,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+13.0,4.0,53.0,4048.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+18.5,5.0,92.0,4392.916666666667,3,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường tân tạo a
+19.0,4.0,76.0,4111.666666666667,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+10.0,4.5,45.0,3240.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+17.0,4.0,68.0,2635.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,56.0,3460.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+13.0,4.0,51.0,5882.5,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,60.0,4375.0,5,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+17.0,4.5,76.0,2713.75,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+17.0,4.0,68.0,2880.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+18.5,4.0,75.0,2277.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.1,40.0,7281.25,4,5.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+6.0,4.0,24.0,5208.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+11.0,4.0,45.0,3611.25,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+20.0,4.0,80.0,2578.333333333333,5,1.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+14.0,8.0,112.0,5394.166666666667,5,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+14.5,4.0,58.0,5028.75,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+20.0,4.2,84.0,4712.5,4,2.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+12.5,4.0,50.0,2916.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+13.0,4.0,52.0,4166.666666666667,5,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+16.0,5.0,81.0,1954.5833333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+15.0,4.0,60.0,3611.25,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+17.0,4.2,71.0,3691.25,5,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+24.0,4.2,100.0,4125.0,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+20.0,4.0,80.0,2083.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+4.0,2.5,10.0,4125.0,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+14.5,4.2,60.9,5377.5,6,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+15.0,4.0,60.0,3263.75,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,4.0,56.0,3497.083333333333,1,2.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+23.64,5.78,136.2,2845.0,5,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+15.0,4.0,60.0,4027.9166666666665,5,4.0,5.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+18.0,4.0,72.0,4050.8333333333335,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc a
+8.0,4.0,32.0,4427.083333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,2934.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+14.5,4.0,56.0,4799.166666666667,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+15.0,4.0,60.0,5173.75,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+10.0,4.0,40.0,4427.083333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+20.0,4.5,90.0,5462.916666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+16.5,4.0,66.0,4166.666666666667,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+9.0,3.0,27.0,3549.583333333333,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+11.0,5.0,53.5,3621.6666666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+12.0,3.6,44.0,3693.3333333333335,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+16.0,4.0,64.0,5078.333333333333,5,5.0,6.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hòa
+12.0,5.6,65.0,4269.166666666667,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+8.94427190999916,8.94427190999916,80.0,2703.333333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.0,4.5,45.0,3324.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+14.0,4.0,56.0,3407.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,2.7,26.0,3605.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+11.0,3.7,40.7,2231.6666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+16.0,4.0,63.1,4325.0,4,5.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+4.0,2.5,10.0,5833.333333333333,1,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+4.4,3.0,13.0,6890.833333333333,2,4.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+17.0,5.0,85.0,3676.6666666666665,6,5.0,7.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.0,4.0,68.0,2757.5,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+28.0,4.8,130.0,2147.5,5,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+10.0,4.0,40.0,3958.3333333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+17.5,4.0,70.0,3750.0,5,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.0,48.0,3472.083333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+14.0,8.0,111.0,3566.25,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,4.0,40.0,3645.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+14.0,4.0,56.0,2455.4166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo a
+12.0,4.0,48.0,3645.8333333333335,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+20.0,5.0,100.0,4791.666666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+10.0,4.0,40.0,3958.3333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+20.0,8.0,160.0,2565.0,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+7.0,3.0,21.0,4563.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+15.0,4.2,64.0,4296.666666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+20.0,4.0,80.0,3906.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+10.5,4.0,42.0,4960.416666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+19.0,4.0,76.0,2247.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+13.0,4.0,50.0,2833.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+21.0,4.0,82.0,2185.0,4,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+11.0,5.2,53.5,3660.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+19.0,4.0,78.0,2190.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+11.5,4.5,52.0,4166.666666666667,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,4.0,48.0,4765.833333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.5,54.0,6404.166666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+15.0,4.0,60.0,3229.1666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.25,4.0,58.0,897.9166666666666,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+17.0,4.0,68.0,3217.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+9.2,3.3,30.0,3750.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+11.0,4.0,44.0,4735.0,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+13.0,8.0,103.0,1614.1666666666667,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+16.0,4.0,65.0,3140.833333333333,4,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+4.0,3.0,12.0,5555.416666666667,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+25.0,4.0,100.0,2500.0,2,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.0,4.5,45.0,3240.833333333333,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
+11.0,3.0,32.0,1822.9166666666667,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+13.0,5.0,65.0,3717.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+16.0,4.0,64.0,3450.4166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+12.0,4.0,48.0,4427.083333333333,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+12.0,4.0,48.0,3168.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+20.0,4.0,80.0,2864.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+7.9,3.0,20.0,5104.166666666667,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+21.0,14.0,294.3,2831.6666666666665,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+7.745966692414834,7.745966692414834,60.0,2076.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+17.0,4.0,68.0,2971.6666666666665,2,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+15.0,4.0,60.0,3367.9166666666665,6,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+23.0,4.0,96.0,3038.333333333333,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+8.246211251235321,8.246211251235321,68.0,2635.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+14.0,4.0,55.0,4659.166666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+9.2,4.7,43.0,4166.666666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+10.0,4.0,40.0,4875.0,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+15.0,4.0,60.0,3194.583333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+16.0,4.0,64.0,3255.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,2.7,25.0,3750.0,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+13.0,5.5,71.0,2934.1666666666665,2,5.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+9.0,4.0,36.0,3356.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+12.5,5.5,70.0,3571.25,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+8.0,4.0,32.0,4557.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+22.0,4.5,95.0,4298.333333333333,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+20.0,3.0,60.0,2083.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+10.0,4.0,40.0,4843.75,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+12.5,4.0,49.0,2874.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,3739.5833333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.0,2.7,25.0,3583.333333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.5,4.0,54.0,5169.583333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+16.5,4.0,66.0,2714.583333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+15.0,4.0,60.0,5555.416666666667,5,6.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+14.0,4.0,56.0,3162.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+17.0,4.0,66.0,2702.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.0,65.0,3717.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+14.0,4.0,57.0,4590.833333333333,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+17.0,4.0,66.0,2525.4166666666665,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+20.0,4.0,80.0,3484.1666666666665,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+16.0,4.0,63.0,3505.4166666666665,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+23.0,4.0,95.0,3947.5,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+10.0,4.0,40.0,2062.5,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường tân tạo
+11.0,4.0,44.0,3645.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+20.0,4.2,84.0,4910.833333333333,4,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+10.0,2.5,25.0,3750.0,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+6.708203932499369,6.708203932499369,45.0,4629.583333333333,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+18.0,5.0,90.0,6851.666666666667,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+10.0,3.0,30.0,3125.0,1,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,3.6,50.0,3333.333333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+14.0,5.0,70.0,2440.4166666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+25.0,8.0,200.0,2812.5,7,2.0,7.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+17.0,4.0,66.0,2708.333333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+9.0,8.0,72.0,2309.1666666666665,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+19.0,4.0,76.0,4166.666666666667,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+22.0,4.0,82.0,2896.25,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+11.0,4.0,42.0,2976.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+20.0,4.0,80.0,2552.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,5.0,62.0,3326.6666666666665,5,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc a
+14.0,4.0,56.0,4687.5,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+20.0,4.0,80.0,2447.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,6.0,78.0,3685.8333333333335,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,60.0,2777.9166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+13.0,5.5,68.0,3676.6666666666665,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+15.0,4.0,60.0,3819.5833333333335,4,4.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường an lạc
+9.0,4.0,36.0,3414.1666666666665,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+23.0,4.5,108.0,4629.583333333333,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông b
+7.0,3.4,24.0,5121.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,4.0,52.0,4487.083333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.0,4.0,48.0,3559.1666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+16.0,5.0,81.0,1903.3333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+15.0,4.0,60.0,2847.083333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+13.0,5.0,65.0,4166.666666666667,3,1.0,2.0,nhà phố liền kề,đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+9.0,3.0,27.0,4938.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,5.5,68.0,3676.6666666666665,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+12.5,4.0,51.0,4656.666666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+17.0,4.0,68.0,2635.0,3,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,50.0,4666.666666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+12.0,5.35,65.0,3172.9166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+12.0,4.85,58.0,3555.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+15.0,4.0,60.0,3138.75,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+11.0,5.5,60.0,3159.583333333333,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+7.3484692283495345,7.3484692283495345,54.0,4166.666666666667,4,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.5,4.0,51.0,4076.6666666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+20.0,4.0,80.0,4947.916666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+22.5,4.0,90.0,4305.416666666667,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+10.0,5.0,50.0,2166.6666666666665,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo a
+7.0,3.0,22.0,4526.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,5.0,100.0,6375.0,6,3.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+18.0,4.0,74.0,4898.75,6,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+14.0,4.0,56.0,3608.75,6,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+20.0,4.0,80.0,4427.083333333333,6,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+22.5,4.0,90.0,4305.416666666667,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+19.0,6.0,113.0,4387.916666666667,5,5.0,7.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường an lạc
+11.0,4.0,44.0,3930.0,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+10.5,4.1,43.0,3972.9166666666665,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+12.0,4.0,48.0,4687.5,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+9.0,8.0,72.0,2291.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+19.0,5.0,95.0,2412.083333333333,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+9.5,3.1,29.0,5387.916666666667,4,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+19.0,5.8,110.0,2386.25,4,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+17.0,4.0,70.0,3207.9166666666665,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+15.0,4.0,60.0,3992.9166666666665,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,4.0,44.0,1846.6666666666667,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+20.0,4.2,84.0,2108.333333333333,1,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,2458.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+16.5,4.0,66.0,2682.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+14.5,5.0,75.0,2638.75,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,2.7,25.0,3833.3333333333335,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+30.0,4.5,135.0,2592.5,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+10.0,4.0,40.0,2604.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",giấy tờ viết tay,,phường bình trị đông
+19.0,4.0,76.0,3070.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.0,48.0,4210.0,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+16.0,4.3,68.0,5821.25,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+16.7,4.0,65.0,2628.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+19.0,4.0,75.0,2277.9166666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+16.0,4.0,64.0,3385.4166666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+12.0,5.0,60.0,3611.25,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+18.0,5.0,90.0,7777.916666666667,5,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+14.0,4.0,55.0,4090.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+15.0,4.0,59.0,4936.25,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+11.0,4.0,45.0,1740.8333333333333,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo a
+15.0,4.5,67.5,8024.583333333333,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+24.0,4.0,96.0,1736.25,4,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,2479.1666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.0,6.1,77.0,1867.0833333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+15.0,4.0,60.0,3471.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+20.0,5.0,100.0,7500.0,6,3.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+16.0,4.0,56.0,4910.833333333333,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+20.0,4.2,83.4,4946.25,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+13.0,8.5,113.0,2433.75,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+15.0,5.0,75.0,3472.083333333333,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+10.0,4.5,44.0,4829.583333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.0,4.0,52.0,3565.833333333333,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,4.0,52.0,3685.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+12.0,4.5,55.0,4242.5,4,3.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+19.0,4.0,74.0,4504.583333333333,6,6.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+10.0,4.0,40.0,3125.0,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+7.483314773547883,7.483314773547883,56.0,2864.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+8.0,7.0,55.6,1648.75,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo a
+14.0,4.0,56.0,4836.25,4,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+11.0,4.0,44.0,3390.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+8.0,4.0,32.0,3489.583333333333,3,2.0,3.0,"nhà ngõ, hẻm",,nội thất đầy đủ,phường bình hưng hòa
+11.0,4.0,44.0,4356.25,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+17.0,4.0,68.0,5821.25,5,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+12.0,3.55,43.8,3662.5,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc a
+20.0,5.0,100.0,5208.333333333333,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+20.0,5.0,100.0,4916.666666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+12.0,5.0,60.0,2986.25,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường tân tạo
+12.0,4.0,46.0,3623.3333333333335,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+20.0,9.0,180.0,8333.333333333334,8,6.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+23.0,5.0,115.0,587.0833333333334,2,1.0,1.0,"nhà ngõ, hẻm",đang chờ sổ,,phường tân tạo a
+20.0,5.0,100.0,5375.0,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+18.0,4.0,72.0,3587.9166666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,5.2,64.0,3183.75,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+26.0,4.5,117.0,2385.833333333333,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+14.0,4.54,57.0,4385.833333333333,4,3.0,3.0,"nhà ngõ, hẻm",đang chờ sổ,nội thất cao cấp,phường bình trị đông
+5.916079783099616,5.916079783099616,35.0,2262.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+19.0,6.0,115.0,2536.25,5,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.0,3.8,52.0,5528.75,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+18.0,4.0,72.0,3182.9166666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+9.0,8.0,70.0,2362.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+11.224972160321824,11.224972160321824,126.0,3171.25,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+9.0,4.0,36.0,4108.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+7.0,3.0,21.0,5754.166666666667,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+8.0,4.0,32.0,2578.333333333333,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+21.0,6.0,126.0,3174.583333333333,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc a
+10.0,4.1,42.0,4067.5,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+14.0,3.0,42.0,3372.9166666666665,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,4245.0,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+17.0,4.0,67.0,2860.833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+22.0,4.5,104.0,3105.0,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+22.0,4.5,104.0,3105.0,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+16.0,5.0,80.0,2552.083333333333,3,3.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+18.0,4.0,74.0,3096.6666666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông a
+17.0,4.0,68.0,4037.9166666666665,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.0,5156.25,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.5,5.0,75.0,2666.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+9.0,4.0,36.0,4976.666666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+18.2,4.0,72.8,3147.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.12,47.6,3413.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+7.0,4.0,28.0,3571.25,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.0,4.0,68.0,3982.9166666666665,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông
+15.0,4.0,60.0,4722.083333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+7.071067811865476,7.071067811865476,50.0,2166.6666666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+8.246211251235321,8.246211251235321,68.0,2880.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.0,3.0,30.0,2333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+13.0,4.7,58.0,3017.083333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+20.0,8.0,160.0,5182.5,5,2.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+11.5,4.0,45.0,3703.75,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+7.071067811865476,7.071067811865476,50.0,4375.0,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+13.5,4.97,66.8,1865.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+7.745966692414834,7.745966692414834,60.0,4159.583333333333,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+12.0,5.4,64.0,3242.083333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+16.5,4.0,66.0,2525.4166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,6.0,112.0,2604.1666666666665,5,2.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,62.0,4704.166666666667,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+38.0,7.5,280.0,2425.4166666666665,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+12.0,4.0,48.0,3620.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+6.928203230275509,6.928203230275509,48.0,3602.5,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+15.0,4.0,59.9,6608.333333333333,4,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+9.0,4.0,36.0,3345.0,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+4.06,3.0,12.2,7172.083333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+28.0,4.2,117.6,4552.916666666667,5,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông a
+11.0,4.0,44.0,2793.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+17.0,4.1,69.7,3646.6666666666665,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+20.0,6.0,120.0,2395.833333333333,5,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+12.0,4.0,48.0,3645.8333333333335,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+28.0,4.0,112.0,2511.25,5,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+4.0,3.0,12.0,4513.75,2,2.0,2.0,"nhà ngõ, hẻm",giấy tờ viết tay,hoàn thiện cơ bản,phường bình trị đông a
+13.0,6.0,78.0,3045.0,4,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+15.0,4.0,62.8,3781.6666666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+9.0,4.7,42.0,3174.583333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+17.0,4.0,67.0,3451.6666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+20.0,4.0,80.0,2078.333333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.0,4.0,68.0,2876.6666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.5,4.0,41.4,2969.1666666666665,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+8.0,5.2,40.0,5000.0,4,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+14.0,7.0,72.0,3298.75,3,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+25.0,4.0,95.0,5175.416666666667,5,1.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+12.0,4.0,48.0,3125.0,2,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+15.0,4.0,60.0,3958.3333333333335,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+16.0,6.0,96.0,5208.333333333333,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+20.0,5.0,100.0,5625.0,6,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+15.0,4.0,60.0,3854.1666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+15.0,4.0,60.0,4444.583333333333,3,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+11.0,4.2,44.0,2793.75,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+14.0,4.0,56.0,3571.25,2,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+11.0,4.0,45.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+13.0,4.0,52.0,3685.8333333333335,4,3.0,3.0,nhà phố liền kề,đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+16.0,6.0,96.0,5208.333333333333,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+17.7,3.0,30.0,2777.9166666666665,2,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+13.0,4.0,52.0,3846.25,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+16.0,4.0,64.0,3385.4166666666665,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+15.0,4.0,61.0,4432.916666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+12.0,4.0,48.0,4861.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+6.928203230275509,6.928203230275509,48.0,4253.333333333333,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+15.0,4.0,62.0,4637.083333333333,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+20.0,5.0,100.0,4791.666666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+18.0,5.0,90.0,7777.916666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+11.0,4.0,44.0,2784.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+8.0,4.0,32.0,3060.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+16.5,4.0,66.0,2272.9166666666665,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+8.0,4.0,32.0,2474.1666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+9.0,3.0,27.0,4706.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+8.0,4.0,32.0,3775.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+18.5,4.0,75.0,3111.25,2,2.0,2.0,"nhà ngõ, hẻm",đang chờ sổ,,phường bình trị đông
+12.0,4.0,48.0,2855.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+8.0,4.0,32.0,4036.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,3645.8333333333335,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+17.0,4.0,68.0,3982.9166666666665,3,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+13.0,4.0,52.0,3998.3333333333335,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+20.0,10.0,200.0,5604.166666666667,5,3.0,5.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+10.0,4.0,40.0,5197.916666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông a
+4.0,3.0,12.0,5208.333333333333,2,3.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,5.5,98.0,2210.833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+9.0,4.0,36.0,4398.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+17.0,4.0,68.0,2880.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,41.0,4756.25,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+8.5,3.0,25.0,4166.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+20.0,4.0,80.0,3020.833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+17.0,4.0,68.0,3952.0833333333335,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+12.0,3.8,46.0,3260.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+14.0,3.0,42.0,3273.75,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+8.0,3.0,25.0,4166.666666666667,2,2.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,bàn giao thô,phường bình trị đông
+16.0,4.0,62.0,3797.0833333333335,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+17.0,4.0,68.0,2812.5,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,12.0,120.0,2638.75,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+18.0,5.5,100.0,2854.1666666666665,5,2.0,5.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà b
+12.3,5.0,61.0,3347.083333333333,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+17.0,4.0,68.0,2297.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+5.477225575051661,5.477225575051661,30.0,2291.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+7.0,3.7,25.0,4916.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+12.0,4.0,48.0,3211.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+12.0,4.0,48.0,5078.333333333333,5,5.0,6.0,"nhà ngõ, hẻm",đang chờ sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,5.0,80.0,3333.333333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+13.0,4.0,52.0,4407.083333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+3.0,7.9,20.0,5041.666666666667,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+20.0,5.0,100.0,3208.333333333333,2,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường tân tạo
+19.0,4.0,78.0,4006.25,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+11.0,5.0,55.0,2140.0,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+14.0,4.0,54.0,4668.333333333333,4,5.0,5.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.5,8.0,109.0,3057.9166666666665,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,4.0,70.0,2976.25,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông b
+20.0,4.0,80.0,2760.4166666666665,6,2.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+15.0,4.0,60.0,3819.5833333333335,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+12.0,4.0,48.0,3385.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+12.5,4.0,50.0,3958.3333333333335,5,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,56.0,3497.083333333333,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+17.0,4.0,68.0,2512.083333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
+14.0,4.0,56.0,3720.4166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+16.0,4.0,64.0,3678.3333333333335,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,48.0,3298.75,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+16.0,5.0,80.0,2604.1666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+19.0,10.0,190.0,5022.083333333333,6,4.0,6.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+6.324555320336759,6.324555320336759,40.0,2187.5,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+10.5,4.0,42.0,1984.1666666666667,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+6.324555320336759,6.324555320336759,40.0,2291.6666666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+10.0,4.0,40.0,4791.666666666667,4,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+22.0,4.7,99.0,3194.583333333333,4,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+13.2,14.5,190.0,2982.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,4.0,80.0,2708.333333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+16.0,4.0,64.0,3255.0,3,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+8.0,4.0,32.0,4947.916666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+15.0,4.0,60.0,3958.3333333333335,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+13.5,4.0,55.0,3030.4166666666665,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+0.1904761904761904,420.0,80.0,2187.5,3,2.0,3.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hòa
+10.0,4.0,40.0,2291.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+14.0,4.0,56.0,2492.5,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+16.0,4.0,64.0,3906.25,5,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+6.6332495807108,6.6332495807108,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+15.0,4.0,46.8,6143.333333333333,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+15.0,6.0,92.0,3079.583333333333,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+14.0,5.0,70.0,3154.583333333333,3,3.0,3.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,5.0,70.0,2737.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.0,4.0,40.0,5031.25,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+12.0,4.0,48.0,3645.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+9.0,8.0,70.0,2375.0,4,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,6.0,81.0,2042.0833333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+13.0,4.0,52.0,3998.3333333333335,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,4.0,40.0,3906.25,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+12.0,3.6,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+10.0,4.0,40.0,2708.333333333333,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo
+13.5,4.0,54.0,4243.75,5,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+8.0,2.5,20.0,5937.5,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+10.0,3.0,30.0,3125.0,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+20.0,3.0,60.0,2083.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+22.0,4.5,99.0,2820.0,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+10.5,4.1,42.0,4067.5,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+12.0,3.5,44.0,3645.8333333333335,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+11.0,6.0,66.0,2525.4166666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+15.0,4.0,60.0,3117.9166666666665,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+10.0,4.0,40.0,2687.5,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+12.0,4.0,48.0,3125.0,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+10.5,4.0,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+21.0,4.0,84.0,4459.166666666667,7,3.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+10.3,4.1,42.0,4067.5,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+14.0,4.0,56.0,4456.666666666667,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,47.0,4415.0,3,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+9.0,4.0,36.0,4224.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+14.5,4.0,58.0,3584.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+16.0,4.0,64.0,2864.583333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+19.0,4.0,76.0,3123.75,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,3.5,35.0,2976.25,4,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+16.0,4.0,64.0,2799.583333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+13.0,5.5,68.0,3676.6666666666665,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+9.15929203539823,4.52,41.4,3673.3333333333335,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+19.5,5.0,96.8,1893.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+12.0,4.0,48.0,4600.833333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.0,4.0,40.0,2270.833333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+12.0,4.0,48.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+20.0,4.5,90.0,4398.333333333333,4,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+11.5,4.0,40.0,5104.166666666667,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+7.0,9.0,56.3,4588.333333333333,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+11.5,4.5,50.0,5750.0,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+18.0,6.0,112.0,1562.5,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.5,4.1,42.0,4067.5,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+12.0,3.55,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc a
+10.0,4.0,40.0,4156.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+16.0,5.0,80.0,2599.1666666666665,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.5,4.0,41.0,4755.0,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+16.0,4.0,64.0,2962.083333333333,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+7.071067811865476,7.071067811865476,50.0,4208.333333333333,5,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+16.0,8.0,128.0,3252.083333333333,6,1.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+18.0,4.0,72.0,3645.8333333333335,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+20.0,4.0,80.0,5625.0,6,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+9.0,4.0,36.0,4050.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+20.0,4.0,80.0,4947.916666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+20.0,4.0,80.0,6250.0,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+14.0,4.0,56.0,3422.5,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,5.0,53.0,4874.166666666667,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+17.0,4.0,68.0,3523.333333333333,6,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+14.0,4.0,56.0,4092.0833333333335,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+19.0,4.0,76.0,3174.1666666666665,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+20.0,4.0,80.0,2942.5,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,5.0,86.0,2228.75,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+10.0,3.0,29.0,3160.833333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà a
+16.0,4.0,64.0,2864.583333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.0,4.0,40.0,3177.083333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+25.5,4.0,102.0,3063.75,4,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+15.0,5.0,86.0,2228.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+12.0,4.0,48.0,5165.0,4,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+13.0,6.0,78.0,3205.0,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+15.0,4.0,60.0,4479.166666666667,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.0,64.0,2278.75,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,4.0,40.0,5156.25,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+18.0,4.0,72.0,2315.0,2,1.0,2.0,nhà phố liền kề,đã có sổ,,phường bình hưng hoà b
+15.0,4.0,60.0,4479.166666666667,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+7.5,4.0,30.0,2916.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+14.0,6.25,81.6,2808.333333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+12.0,3.5,44.0,2840.833333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+22.0,4.0,84.0,2827.5,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+20.0,3.0,60.0,2083.333333333333,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,bàn giao thô,phường bình hưng hoà b
+10.0,4.0,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+16.0,3.3,52.0,2820.4166666666665,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường tân tạo a
+17.0,4.0,68.0,1654.5833333333333,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+16.0,4.0,66.0,4861.25,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.5,4.0,50.0,3958.3333333333335,4,4.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+15.0,4.0,60.0,4861.25,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+11.0,4.0,42.0,2976.25,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.0,4.0,64.0,4850.416666666667,4,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+10.0,4.0,40.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+6.6332495807108,6.6332495807108,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+15.0,4.0,60.0,3819.5833333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+15.0,4.0,60.0,3958.3333333333335,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+12.0,3.6,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+20.0,4.0,80.0,2812.5,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+17.0,4.0,68.0,3431.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+9.0,8.0,72.0,2285.833333333333,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,4.0,56.0,4427.083333333333,4,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+11.0,4.0,44.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+15.5,4.0,61.0,4781.25,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+22.0,4.0,88.0,6155.416666666667,7,6.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông a
+17.0,4.0,68.0,4595.416666666667,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+11.0,4.3,69.0,3013.333333333333,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+23.0,6.0,118.0,7697.916666666667,2,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+9.0,3.2,27.0,4475.416666666667,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+14.0,4.0,56.0,2976.25,3,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,2322.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+18.0,4.1,76.0,3837.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.0,8.0,111.0,3566.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+20.0,4.0,80.0,3645.8333333333335,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+17.0,4.0,62.0,4032.0833333333335,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.2,46.7,3747.5,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+12.0,4.0,48.0,4123.333333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+12.0,4.0,48.0,3385.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+6.324555320336759,6.324555320336759,40.0,2395.833333333333,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+16.0,4.0,64.0,4166.666666666667,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,3455.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+12.5,5.5,67.0,3855.8333333333335,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+8.0,4.0,32.0,2995.0,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+23.0,6.0,138.0,3771.25,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+15.0,4.0,60.0,4027.9166666666665,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,4.1,41.0,4065.0,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+8.366600265340756,8.366600265340756,70.0,3362.9166666666665,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+19.0,4.0,78.0,2190.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+11.0,4.0,44.0,4356.25,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.5,54.0,5710.0,4,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+16.0,4.0,64.0,3743.3333333333335,5,4.0,6.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,3895.8333333333335,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.0,4.0,40.0,4260.416666666667,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+25.0,4.0,100.0,2875.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+15.0,4.0,60.0,4791.666666666667,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,4.0,40.0,3072.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+16.0,4.5,72.0,3587.9166666666665,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+18.0,8.0,144.0,3067.083333333333,5,3.0,5.0,nhà biệt thự,đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.0,4.0,64.0,4030.0,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+12.0,4.0,48.0,5165.0,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.0,64.0,2767.083333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+6.48074069840786,6.48074069840786,42.0,4067.5,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+20.0,5.0,100.0,2495.833333333333,8,3.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường tân tạo a
+8.0,4.0,32.0,4166.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,48.0,5729.166666666667,3,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+12.0,4.0,48.0,2690.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.2,59.0,4237.083333333333,5,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+17.0,4.0,68.0,3370.0,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+15.0,4.0,58.0,3376.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+8.0,4.0,32.0,2187.5,2,3.0,2.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,hoàn thiện cơ bản,phường tân tạo a
+12.0,4.0,48.0,2560.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+20.0,4.0,80.0,4687.5,5,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+18.0,5.0,90.0,5782.5,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+8.0,2.5,20.0,5937.5,2,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+17.0,4.0,68.0,3400.833333333333,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+103.0,4.1,43.0,3972.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+11.0,4.0,44.0,3778.3333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+7.0,5.0,35.0,4583.333333333333,2,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+20.0,4.0,80.0,4791.666666666667,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+25.0,4.0,100.0,1604.1666666666667,6,1.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+13.5,4.0,54.0,3857.9166666666665,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+33.0,6.5,240.0,2777.9166666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+18.0,4.5,80.0,2552.083333333333,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,4.1,42.0,4057.5,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,3.0,30.0,3125.0,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,4.0,40.0,3906.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+5.916079783099616,5.916079783099616,35.0,2380.833333333333,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+9.0,6.0,52.0,3926.25,4,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+19.0,6.0,113.0,4387.916666666667,5,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+10.0,4.0,40.0,5052.083333333333,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+9.0,4.0,36.0,4224.583333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+13.0,6.0,78.0,4620.833333333333,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+10.5,4.0,40.5,3755.0,2,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+10.0,3.6,36.0,4803.333333333333,4,4.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,4.0,40.0,4166.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+11.0,3.0,30.0,3611.25,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường tân tạo
+10.0,6.0,50.0,3583.333333333333,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường tân tạo
+12.0,4.0,48.0,3862.9166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+18.0,4.0,72.0,4629.583333333333,3,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+20.0,5.0,100.0,4791.666666666667,5,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+6.928203230275509,6.928203230275509,48.0,3602.5,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,4.0,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+13.0,4.15,54.0,4012.5,6,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+15.0,4.0,58.0,4490.0,5,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,5.0,60.0,3597.083333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+9.0,4.0,36.0,3298.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+21.0,6.8,130.0,2243.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+12.0,4.0,48.0,3298.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+21.0,4.0,84.0,3620.8333333333335,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+5.0,4.0,20.0,6208.333333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+18.0,4.0,72.0,3645.8333333333335,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+7.0,4.3,28.0,2827.5,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+19.0,4.0,75.0,2277.9166666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+21.0,4.0,84.0,1934.5833333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+18.5,4.0,74.0,1830.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,56.0,2901.6666666666665,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+28.0,4.0,115.0,2699.1666666666665,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+12.0,3.7,44.0,3598.333333333333,4,4.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+17.0,8.0,136.0,3063.75,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+12.0,4.0,48.0,3645.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+10.0,4.0,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+19.0,4.0,75.0,7777.916666666667,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+16.0,4.0,64.0,2408.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+14.0,6.0,84.0,1969.1666666666667,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+15.0,4.0,60.0,5694.583333333333,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+13.0,4.0,50.0,2500.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+14.0,4.0,56.0,4687.5,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+22.0,4.0,88.0,6145.833333333333,6,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông
+11.3,4.0,44.0,4024.5833333333335,1,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+7.0,4.2,30.0,2638.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+7.0,3.0,21.0,3968.3333333333335,2,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+13.0,4.2,55.0,4280.416666666667,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+17.0,4.0,68.0,3400.833333333333,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,5208.333333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+16.0,13.0,200.0,5562.5,1,1.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+11.0,6.1,67.0,2705.4166666666665,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+9.0,3.3,29.7,4419.166666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+10.0,4.0,40.0,5052.083333333333,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+16.0,4.0,64.0,2799.583333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+13.2,4.0,54.0,6558.75,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+9.486832980505138,9.486832980505138,90.0,6013.75,6,6.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+50.0,6.0,183.0,2732.083333333333,5,2.0,5.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường bình hưng hòa
+14.0,4.0,56.0,4687.5,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+105.0,4.0,42.0,3819.5833333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+10.0,4.0,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+20.0,4.0,84.0,3472.083333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+20.5,4.0,82.0,3557.083333333333,5,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.0,5.0,68.0,2132.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+8.0,4.0,32.0,4557.5,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,4.0,43.0,5135.833333333333,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+12.0,3.5,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc a
+16.5,4.0,68.0,4166.666666666667,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+10.0,3.0,30.0,3125.0,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+12.0,4.0,48.0,3342.083333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc a
+17.0,4.0,68.0,3400.833333333333,6,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,3.6,44.0,3598.333333333333,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+19.0,6.0,114.0,5117.083333333333,4,3.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+12.0,4.0,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+12.0,4.0,44.0,3645.8333333333335,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc a
+18.0,4.0,72.0,3269.583333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+23.0,4.0,91.0,3846.25,7,5.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+9.0,4.0,36.0,4224.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+8.0,3.0,24.0,4600.833333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+8.0,4.0,32.0,5000.0,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+6.0,6.0,36.0,2638.75,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường tân tạo
+16.0,4.2,54.0,3857.0833333333335,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+13.0,4.0,50.0,4416.666666666667,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+19.0,8.0,148.0,2815.4166666666665,6,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+15.0,4.0,87.0,2322.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+10.5,4.0,42.0,3918.75,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+8.246211251235321,8.246211251235321,68.0,4718.333333333333,5,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông
+19.0,4.0,75.0,2277.9166666666665,1,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+16.0,8.0,124.0,3356.6666666666665,5,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+10.0,4.0,40.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+10.0,4.08,41.0,4756.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+10.0,4.3,39.0,4060.0,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.5,4.0,42.0,3819.5833333333335,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+12.0,3.3,40.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+12.0,4.0,48.0,4644.166666666667,3,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+15.0,5.0,77.0,1785.8333333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+6.0,6.0,36.0,4282.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.5,4.0,42.0,2976.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+13.0,4.0,52.0,3165.0,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,4.0,40.0,3072.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,4.0,40.0,5312.5,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+12.5,4.0,50.0,2500.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+20.0,4.0,79.0,2795.4166666666665,4,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,4.0,40.0,4166.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,4.0,72.0,4108.75,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+16.0,4.0,64.0,4557.5,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+10.0,4.0,40.0,4114.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+10.0,3.0,30.0,4236.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+14.0,4.0,68.0,3553.75,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+20.0,4.0,82.0,2972.5,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,4.0,40.0,3854.1666666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+10.0,4.0,40.0,3906.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+9.0,4.0,36.0,4108.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.5,4.0,50.0,5000.0,5,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+22.0,3.15,64.0,2213.333333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
+8.0,3.0,24.0,3125.0,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,4.0,40.0,4166.666666666667,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+6.5,4.3,28.0,2961.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+10.0,4.0,40.0,5000.0,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.0,4.5,72.0,3009.1666666666665,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+14.0,4.0,56.0,5915.0,3,3.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+10.0,4.0,40.0,2760.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+22.0,4.0,86.7,3412.083333333333,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+23.0,4.0,90.2,3695.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+12.0,4.0,48.0,4071.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+16.0,6.0,96.0,3428.75,4,4.0,3.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+7.0,8.0,52.0,4807.5,5,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.5,8.0,124.0,3326.6666666666665,4,1.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+8.5,4.0,35.0,4512.083333333333,4,3.0,4.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,4.0,48.0,3255.0,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,49.0,3272.9166666666665,4,3.0,4.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,4.0,48.0,3992.9166666666665,4,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+20.0,10.0,200.0,5208.333333333333,4,3.0,5.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+9.0,3.1,28.0,2604.1666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,3.7,39.0,3739.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.0,4.0,60.0,2152.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+7.5,4.2,32.0,3775.8333333333335,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+16.0,4.0,64.0,2929.583333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông b
+8.0,5.0,40.0,2864.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+20.0,4.0,80.0,4947.916666666667,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,bàn giao thô,phường bình trị đông b
+12.0,4.0,48.0,2074.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,4375.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+18.0,4.0,72.0,4687.5,6,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+14.0,4.0,54.0,4706.666666666667,5,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+11.5,4.0,46.0,4438.333333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.0,5052.083333333333,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+16.0,4.0,64.0,3775.8333333333335,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+6.48074069840786,6.48074069840786,42.0,3174.583333333333,2,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+22.0,9.0,213.0,3521.25,6,6.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+10.0,4.0,40.0,4270.833333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+10.0,4.0,40.0,3333.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+19.0,4.05,77.0,3787.9166666666665,6,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+20.0,4.0,80.0,3645.8333333333335,6,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+15.0,4.0,60.0,4166.666666666667,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+9.0,4.0,35.0,2297.5,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+12.0,4.0,48.0,3645.8333333333335,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+19.0,4.0,75.0,2277.9166666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+19.0,4.0,75.0,2277.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+21.0,4.0,82.0,3709.1666666666665,3,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+16.5,5.0,82.0,2388.333333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+20.0,8.0,160.0,2601.6666666666665,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+13.0,4.0,52.0,4006.25,4,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.5,4.0,74.0,2308.75,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+15.0,4.0,60.0,5000.0,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc a
+21.0,6.0,130.0,5545.0,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+18.0,4.0,72.0,3177.083333333333,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+16.2,4.0,65.0,2692.5,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+11.0,4.0,44.0,2840.833333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.0,4375.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+10.5,4.0,42.0,3075.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+11.5,4.5,50.0,5166.666666666667,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+20.0,5.0,100.0,14583.333333333334,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông b
+10.0,7.0,70.0,2262.083333333333,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+7.0,3.0,20.0,3437.5,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+12.0,4.0,48.0,3645.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+10.0,3.6,36.0,7986.25,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+26.5,4.0,105.0,4365.0,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+19.0,4.0,75.0,2277.9166666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+12.0,4.0,48.0,3472.083333333333,4,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+20.0,6.0,120.0,3298.75,6,4.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+6.0,3.0,18.0,4629.583333333333,2,2.0,1.0,"nhà ngõ, hẻm",đang chờ sổ,hoàn thiện cơ bản,phường tân tạo
+10.0,4.0,40.0,4166.666666666667,4,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo
+15.0,4.0,58.0,4417.916666666667,3,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+9.0,7.75,69.75,2359.583333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+9.0,3.0,36.0,4143.333333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+5.0,5.0,25.0,3983.3333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đang chờ sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+9.0,8.0,72.0,2285.833333333333,4,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+14.0,4.0,56.0,2566.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,4.0,48.0,5165.0,4,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+32.0,10.0,290.0,2701.25,4,1.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+16.0,4.0,64.0,3710.8333333333335,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+13.5,6.0,80.0,4947.916666666667,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+14.0,4.0,56.0,3869.1666666666665,4,4.0,5.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+12.5,4.8,60.0,4062.5,4,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+15.0,4.0,60.0,3117.9166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+16.0,6.0,95.0,4385.833333333333,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+6.0,3.4,20.2,4125.416666666667,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,4.0,64.0,4557.5,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.2,42.0,2976.25,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.0,4.0,55.0,3030.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+14.0,4.0,55.0,3901.6666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+29.5,5.1,150.0,2583.333333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.58139534883721,4.3,67.0,3731.25,5,1.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông a
+20.0,4.0,80.0,3484.1666666666665,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+7.745966692414834,7.745966692414834,60.0,4166.666666666667,5,5.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông a
+15.0,8.0,120.0,4826.25,4,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+18.0,4.0,72.0,3617.0833333333335,4,3.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+35.0,8.0,280.0,4762.083333333333,3,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+20.0,4.5,90.0,4398.333333333333,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+10.0,4.0,40.0,4270.833333333333,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+10.0,4.0,40.0,2291.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+15.0,4.0,60.0,2777.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,48.0,2604.1666666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+14.0,4.2,58.0,4382.083333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+11.0,5.0,56.0,2529.583333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+14.0,5.0,60.0,4340.416666666667,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+12.0,4.0,48.0,3645.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+17.0,4.0,70.0,541.6666666666666,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+8.0,4.0,32.0,4531.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+12.5,4.0,50.0,2500.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+22.0,4.2,93.0,4928.333333333333,4,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+16.0,4.0,64.0,631.6666666666666,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+10.0,4.0,40.0,3854.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,4.0,40.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+15.0,3.6,54.0,3472.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+19.0,12.0,228.0,2375.833333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+12.0,4.2,51.0,3227.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,4.0,40.0,2083.333333333333,2,2.0,2.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường tân tạo
+12.5,4.0,49.0,4847.083333333333,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+20.0,3.55,71.0,3638.3333333333335,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+20.0,7.0,140.0,4464.166666666667,6,4.0,6.0,nhà biệt thự,đã có sổ,,phường bình trị đông b
+18.0,6.0,108.0,2604.1666666666665,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+8.0,5.2,40.0,5156.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc a
+25.0,5.0,125.0,3666.6666666666665,6,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+9.0,4.0,36.0,2315.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+15.2,5.5,84.0,1984.1666666666667,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+16.0,4.0,64.0,2929.583333333333,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông b
+11.0,4.5,50.0,4375.0,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+32.0,5.4,173.0,1975.0,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+16.0,4.3,72.0,4745.416666666667,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+7.0,4.3,28.0,2946.25,1,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+7.0,4.0,28.0,2946.25,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+15.0,4.0,58.0,4417.916666666667,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+13.5,3.6,49.0,3571.25,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường an lạc
+6.6783231428256,6.6783231428256,44.6,3550.0,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+10.0,4.1,40.0,4166.666666666667,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.0,7.6,106.0,2358.333333333333,4,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+8.5,3.12,27.0,3086.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,3.0,30.0,4444.583333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+15.0,4.0,58.0,3340.4166666666665,2,2.0,1.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+1.8,33.0,60.0,8333.333333333334,5,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+15.0,8.0,120.0,3298.75,5,1.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+12.0,4.0,48.0,3602.5,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+17.0,4.0,68.0,2757.5,5,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+13.0,4.0,52.0,3085.0,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+10.0,4.0,41.0,4756.25,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+20.0,8.0,160.0,7031.25,6,5.0,6.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường an lạc a
+13.0,3.2,43.0,3100.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+12.5,4.0,50.0,2916.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+20.0,4.0,80.0,3484.1666666666665,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,4.0,40.0,3645.8333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+15.0,5.0,75.0,3277.9166666666665,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.0,4.0,56.0,3869.1666666666665,3,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+18.0,4.0,72.0,4629.583333333333,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc a
+12.0,4.0,48.0,3472.083333333333,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+14.0,4.0,56.0,2976.25,6,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.6,4.0,58.0,2873.75,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo
+16.0,4.0,64.0,3574.1666666666665,2,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.0,64.0,2734.1666666666665,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+15.0,4.0,60.0,5694.583333333333,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,4.0,40.0,3520.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.0,4.0,52.0,4246.666666666667,4,4.0,3.0,nhà phố liền kề,đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,4.5,50.0,4500.0,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+18.0,4.0,72.0,2662.083333333333,2,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,4.0,40.0,4166.666666666667,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+12.0,4.0,48.0,3602.5,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+12.0,3.0,36.0,4224.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.0,4.0,44.0,4725.416666666667,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+8.2,4.0,33.0,4406.666666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hòa
+10.1,4.0,42.0,2976.25,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+12.0,4.0,48.0,3472.083333333333,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+10.2,4.0,41.0,4065.0,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,4.0,64.0,3743.3333333333335,5,4.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+27.0,4.0,105.4,2688.333333333333,4,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+12.5,4.0,49.0,4081.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+13.0,4.0,52.0,2764.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+23.0,4.0,92.0,3618.75,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông b
+15.0,4.0,60.0,3715.4166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+10.0,4.2,42.0,3859.1666666666665,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+23.0,4.0,93.0,3965.0,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+12.0,4.0,48.0,4383.75,5,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+18.0,4.5,76.5,6481.666666666667,7,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+10.0,4.0,40.0,3125.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+18.0,4.0,58.6,3270.833333333333,2,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+16.0,3.0,48.0,3177.083333333333,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+12.0,4.0,48.0,2864.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.0,64.0,4492.083333333333,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+10.5,4.0,40.0,4531.25,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+14.0,4.0,56.0,3720.4166666666665,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+9.0,4.0,36.0,3345.0,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.0,4.0,52.0,4006.25,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+13.5,5.0,68.0,3278.333333333333,5,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+8.0,4.0,32.0,1953.3333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+14.5,4.5,65.0,3846.25,6,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+10.0,4.0,40.0,5156.25,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+15.0,4.0,60.0,4854.166666666667,3,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+10.0,4.0,40.0,3833.3333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+16.0,4.0,64.0,3255.0,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+9.0,3.1,28.3,2944.583333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+27.0,4.0,108.0,5401.25,6,5.0,7.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình trị đông a
+11.5,4.0,45.0,4537.083333333333,3,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+18.0,5.0,92.0,2083.333333333333,4,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+17.0,4.0,70.0,3244.1666666666665,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+7.0,4.0,28.0,3571.25,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+15.5,4.0,62.0,3965.0,5,5.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+16.0,8.0,128.0,3287.9166666666665,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+12.0,4.0,48.0,3385.4166666666665,2,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc
+17.0,4.0,67.0,3233.75,5,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo
+18.0,4.0,72.0,3576.25,6,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+7.0,4.1,28.7,4137.5,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.0,3.0,30.0,5208.333333333333,4,4.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,5.0,100.0,2500.0,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+20.0,4.0,80.0,3125.0,5,2.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc a
+12.0,4.5,54.0,3857.9166666666665,4,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc a
+18.0,4.0,72.0,3472.083333333333,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+9.5,4.0,38.0,3289.583333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+10.0,4.0,40.0,3125.0,2,5.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+16.0,4.0,64.0,3841.25,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+10.0,3.0,30.0,4583.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+13.0,8.0,102.0,2777.9166666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+21.0,4.3,100.0,2229.1666666666665,4,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+10.0,4.0,40.0,3833.3333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+10.5,3.4,35.0,4404.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,3.0,35.0,5000.0,5,5.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.0,4.0,60.0,2882.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+12.0,4.0,48.0,3602.5,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+9.0,4.0,36.0,4224.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+11.0,3.1,30.0,2916.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+15.0,4.0,61.0,4781.25,6,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+9.0,4.0,36.0,3356.6666666666665,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+11.0,4.0,44.0,6060.416666666667,5,6.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+13.0,4.0,52.0,6089.583333333333,4,6.0,5.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường bình trị đông
+15.0,4.0,60.0,3055.4166666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+8.0,4.0,32.0,4557.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+6.2,3.0,18.6,3696.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+10.0,3.5,35.0,2380.833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường tân tạo
+17.0,5.0,86.0,2713.333333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+9.0,4.0,36.0,3356.6666666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.0,6.5,83.0,3765.0,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+7.0,4.1,28.0,2976.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+12.0,7.0,80.0,5208.333333333333,6,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+8.0,4.0,32.0,4752.5,2,3.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+6.5,4.0,26.0,4567.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+20.0,4.0,80.0,3385.4166666666665,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+11.0,3.4,38.0,4002.0833333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+16.0,4.5,72.0,2285.833333333333,2,1.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+14.2,4.5,64.0,2223.333333333333,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+15.2,4.2,64.3,3369.583333333333,3,2.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+17.0,4.0,68.0,5330.833333333333,4,4.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+14.0,4.0,52.0,5609.166666666667,4,1.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông a
+12.0,4.0,48.0,3559.1666666666665,2,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+13.0,4.0,51.0,6372.5,4,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường an lạc
+12.0,7.0,80.0,5208.333333333333,6,4.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất cao cấp,phường an lạc
+10.0,4.0,40.0,2291.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường tân tạo a
+20.0,3.2,57.0,3362.5,4,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc a
+12.0,7.0,80.0,5208.333333333333,6,4.0,7.0,nhà biệt thự,đã có sổ,nội thất cao cấp,phường an lạc
+10.5,4.0,42.0,4791.666666666667,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+18.0,4.0,72.0,4629.583333333333,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc a
+18.0,4.0,72.0,4629.583333333333,3,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc a
+16.0,4.0,65.0,3557.5,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà b
+28.0,4.0,112.0,1822.9166666666667,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+10.0,5.0,50.0,4375.0,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.0,3.5,38.5,3950.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,4.0,64.0,3906.25,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+6.0,3.4,17.0,3676.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+9.0,4.0,36.0,3345.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+16.0,4.0,64.0,4231.666666666667,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,4.0,48.0,3559.1666666666665,3,2.0,2.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+12.0,4.0,48.0,3602.5,3,4.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+18.0,4.4,78.0,2270.4166666666665,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+11.0,3.5,38.0,2192.9166666666665,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+10.0,4.0,40.0,5000.0,4,4.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+17.0,4.0,68.0,3063.75,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+15.0,4.0,52.0,5528.75,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình trị đông b
+14.0,4.0,56.0,4612.916666666667,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+15.0,4.0,60.0,3750.0,4,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+14.5,4.0,58.0,3484.1666666666665,4,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+8.1,4.0,32.0,3385.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+12.5,4.0,50.0,4166.666666666667,6,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+11.0,3.4,36.0,3472.083333333333,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình hưng hoà a
+16.0,4.0,64.0,3385.4166666666665,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+14.0,4.0,56.0,1934.5833333333333,2,2.0,2.0,"nhà ngõ, hẻm",đang chờ sổ,nội thất đầy đủ,phường bình hưng hoà b
+12.0,4.0,48.0,4331.666666666667,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+19.0,6.0,114.0,3801.25,4,2.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà b
+9.0,4.0,35.0,3547.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+9.0,4.0,36.0,3298.75,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+12.0,4.0,48.0,2591.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+12.5,4.0,50.0,3000.0,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+24.0,4.0,96.0,3992.9166666666665,5,2.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+15.0,4.0,58.6,3981.6666666666665,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+12.0,4.0,48.0,3385.4166666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+12.0,4.1,48.0,4340.416666666667,6,5.0,6.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+16.0,4.0,65.0,2564.1666666666665,4,3.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+13.0,6.5,85.0,3676.6666666666665,5,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông a
+8.0,4.0,32.0,4622.5,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+9.0,4.0,36.0,3356.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hòa
+3.0,8.0,20.0,5104.166666666667,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+18.0,4.0,80.0,6250.0,5,5.0,5.0,nhà phố liền kề,đã có sổ,nội thất cao cấp,phường an lạc
+18.0,8.0,146.0,3367.5,5,2.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+10.0,4.0,40.0,3854.1666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo
+8.0,4.0,32.0,4427.083333333333,2,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông
+10.5,5.0,52.0,3645.8333333333335,3,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+13.5,4.0,54.0,5710.0,5,3.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường an lạc
+14.0,5.0,68.0,3645.8333333333335,4,4.0,5.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông a
+11.0,4.2,42.0,3968.3333333333335,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất cao cấp,phường bình trị đông
+17.0,4.0,68.0,3125.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.0,3.0,48.0,3081.6666666666665,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+13.5,4.0,52.0,1867.0833333333333,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+11.0,3.0,32.0,3255.0,4,1.0,3.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,nội thất đầy đủ,phường bình hưng hoà b
+12.4,4.0,49.7,2850.4166666666665,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+11.0,6.0,60.0,2207.5,4,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường bình trị đông
+16.0,4.0,64.0,3906.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+8.0,3.0,24.0,4166.666666666667,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+26.4,4.0,104.9,4369.166666666667,4,3.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,,phường bình hưng hoà a
+13.4,3.2,44.0,4261.25,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà a
+14.446452851824906,14.446452851824906,208.7,1497.5,6,3.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo a
+8.0,3.0,24.0,3871.6666666666665,2,2.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường tân tạo
+15.0,4.0,60.0,4027.9166666666665,4,3.0,3.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình trị đông
+20.0,9.0,180.0,1851.6666666666667,6,2.0,5.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà b
+18.0,4.0,76.0,6743.333333333333,6,3.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,nội thất đầy đủ,phường an lạc
+7.0,4.0,30.0,3750.0,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hòa
+11.0,4.0,44.0,4261.25,3,1.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình trị đông a
+8.0,4.0,32.0,5143.333333333333,4,5.0,5.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+10.0,6.0,60.0,2986.25,3,2.0,3.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường bình hưng hoà b
+6.752777206453653,6.752777206453653,45.6,5117.083333333333,3,1.0,3.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+12.0,4.0,46.0,3079.583333333333,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà b
+15.0,3.8,51.3,5645.0,4,4.0,4.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường tân tạo a
+12.5,4.0,50.0,2083.333333333333,1,1.0,1.0,"nhà ngõ, hẻm",giấy tờ viết tay,hoàn thiện cơ bản,phường bình trị đông a
+9.3,4.5,41.0,4827.083333333333,3,3.0,3.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
+12.0,7.5,90.1,5780.833333333333,5,4.0,5.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường an lạc a
+20.0,4.0,80.0,3125.0,5,5.0,6.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường bình hưng hòa
+11.0,8.0,81.0,3960.8333333333335,4,1.0,4.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+16.0,5.0,80.0,500.0,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+9.0,3.0,27.0,4012.5,2,2.0,3.0,"nhà ngõ, hẻm",sổ chung / công chứng vi bằng,hoàn thiện cơ bản,phường an lạc
+16.0,5.0,80.0,501.25,2,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,,phường an lạc
+35.0,5.0,175.0,4047.5,6,2.0,4.0,"nhà mặt phố, mặt tiền",đã có sổ,hoàn thiện cơ bản,phường tân tạo a
+4.5,3.5,15.0,6111.25,2,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,,phường bình hưng hoà a
+10.0,4.0,40.0,2291.6666666666665,3,2.0,2.0,"nhà ngõ, hẻm",đã có sổ,nội thất đầy đủ,phường an lạc
+8.0,3.0,24.0,3298.75,1,1.0,1.0,"nhà ngõ, hẻm",đã có sổ,hoàn thiện cơ bản,phường bình hưng hoà a
